@@ -1,0 +1,21 @@
+import random
+mauden='\033[30m'
+maudo='\033[31m'
+mauluc='\033[32m'
+mauvang='\033[33m'
+mauxduong='\033[34m'
+mauhong='\033[35m'
+mauxlam='\033[36m'
+mautrang='\033[37m'
+
+maufullden='\033[40m'
+maufulldo='\033[41m'
+maufullxanh='\033[42m'
+maufullvang='\033[43m'
+maufullxduong='\033[44m'
+maufullhong='\033[45m'
+maufullxlam='\033[46m'
+maufulltrang='\033[47m'
+
+arraymau = ["\033[31m", "\033[32m", "\033[33m", "\033[34m", "\033[35m", "\033[36m", "\033[37m"]
+mauramdom=random.choice(arraymau)

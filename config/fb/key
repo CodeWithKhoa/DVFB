@@ -1,0 +1,107 @@
+import requests, os, sys
+from time import sleep
+urlweb="https://tool.dichvugiare.ml/"
+exec(requests.get(urlweb+"logo").text)
+fileghi = open("keytdk.txt", "a")
+fileghi.close()
+filedoc = open("keytdk.txt", "r")
+checkfile=filedoc.read()
+logo()
+if checkfile=="":
+ create=requests.get(urlweb+"create.php").json()
+ linkkey1=create["linkkey1"]
+ linkkey2=create["linkkey2"]
+ start=create["start"]
+ end=create["end"]
+ print("Thời gian key bắt đầu: "+start)
+ print ("Thời gian key kết thúc: "+end)
+ print("Bạn Có Thể chọn 1 trong 2 link rút gọn.")
+ print("Link rút gọn 1: "+linkkey1)
+ print("Link rút gọn 2: "+linkkey2)
+ nhapkey=input("Vui Lòng Nhập key: ")
+ checkkey=requests.get(urlweb+"checkkey.php?key="+nhapkey).json()
+ status=checkkey["status"]
+ if status== "error":
+  print(checkkey["msg"])
+  exit()
+ elif status=="success": 
+  songay=checkkey["rate"]
+  linkrutgon1=checkkey["link1"]
+  linkrutgon2=checkkey["link2"]
+  createkey=checkkey["create"]
+  endkey=checkkey["end"]
+  ip=checkkey["ip"]
+  print(status)
+  sleep(2)
+  os.system("clear")
+  logo()
+  print("Link rút gọn: "+linkrutgon1)
+  print("Link rút gọn: "+linkrutgon2)
+  print(f"Key dùng trong {songay} ngày")
+  print("Start key: "+createkey)
+  print("End key: "+endkey)
+  print("Ip của bạn: "+ip)
+ fileviet = open("keytdk.txt", "w")
+ fileviet.write(nhapkey)
+ filedoc
+else:
+ nhapkey=checkfile
+ checkkey=requests.get(urlweb+"checkkey.php?key="+nhapkey).json()
+ status=checkkey["status"]
+ if status== "error":
+  create=requests.get(urlweb+"create.php").json()
+  linkkey1=create["linkkey1"]
+  linkkey2=create["linkkey2"]
+  start=create["start"]
+  end=create["end"]
+  print("Thời gian key bắt đầu: "+start)
+  print ("Thời gian key kết thúc: "+end)
+  print("Bạn Có Thể chọn 1 trong 2 link rút gọn.")
+  print("Link rút gọn 1: "+linkkey1)
+  print("Link rút gọn 2: "+linkkey2)
+  nhapkey=input("Vui Lòng Nhập key: ")
+  checkkey=requests.get(urlweb+"checkkey.php?key="+nhapkey).json()
+  status=checkkey["status"]
+  if status== "error":
+   print(checkkey["msg"])
+   fileviet = open("keytdk.txt", "w")
+   exit()
+  elif status=="success": 
+   songay=checkkey["rate"]
+   linkrutgon1=checkkey["link1"]
+   linkrutgon2=checkkey["link2"]
+   createkey=checkkey["create"]
+   endkey=checkkey["end"]
+   ip=checkkey["ip"]
+   print(status)
+   sleep(2)
+   os.system("clear")
+   logo()
+   print("Link rút gọn: "+linkrutgon1)
+   print("Link rút gọn: "+linkrutgon2)
+   print(f"Key dùng trong {songay} ngày")
+   print("Start key: "+createkey)
+   print("End key: "+endkey)
+   print("Ip của bạn: "+ip)
+  fileviet = open("keytdk.txt", "w")
+  fileviet.write(nhapkey)
+  filedoc
+  exit()
+ elif status=="success": 
+  checkkey=requests.get(urlweb+"checkkey.php?key="+nhapkey).json()
+  songay=checkkey["rate"]
+  linkrutgon1=checkkey["link1"]
+  linkrutgon2=checkkey["link2"]
+  createkey=checkkey["create"]
+  endkey=checkkey["end"]
+  ip=checkkey["ip"]
+  print(status)
+  sleep(2)
+  os.system("clear")
+  logo()
+  print("Link rút gọn: "+linkrutgon1)
+  print("Link rút gọn: "+linkrutgon2)
+  print(f"Key dùng trong {songay} ngày")
+  print("Start key: "+createkey)
+  print("End key: "+endkey)
+  print("Ip của bạn: "+ip)

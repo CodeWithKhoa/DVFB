@@ -1,0 +1,7 @@
+
+print(mauluc+"Link rút gọn: "+mauxduong+linkrutgon1)
+print(mauluc+"Link rút gọn: "+mauxduong+linkrutgon2)
+print(f"{mauluc}Key dùng trong {mauvang}{songay}{mauluc} ngày")
+print(mauluc+"Start key: "+mauxduong+createkey)
+print(mauluc+"End key: "+mauxduong+endkey)
+print(mauluc+"Ip của bạn: "+mauxduong+ip)

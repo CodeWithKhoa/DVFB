@@ -1,0 +1,165 @@
+.img-service {
+  height:23px;
+  margin-right:5px;
+}
+
+a.card-service {
+  text-align:center;
+  padding:20px;
+  border-radius:15px;
+  border:2px solid #4a97f7;
+  color:#000;
+}
+
+a.card-service:hover {
+  background:#2f80ed;
+  background:linear-gradient(270deg,#2f80ed,#56ccf2);
+  border:none;
+  color:#fff;
+}
+
+a.card-service img {
+  height:40px;
+}
+
+a.card-service div.service-name {
+  padding-top:10px;
+  font-weight:700;
+}
+
+.service-title {
+  text-align:center;
+  font-weight:700;
+  letter-spacing:1px;
+}
+
+.service-title img {
+  height:30px;
+  border-radius:5px;
+}
+
+
+.service-count img {
+  height:30px;
+  border-radius:5px;
+}
+
+.count-service {
+  padding-top:3px;
+  font-weight:700;
+}
+
+.cn-notify {
+  padding-top:15px;
+}
+
+.profile-image {
+  height:60px;
+  width:100%;
+}
+.card-body {
+  padding:30px;
+}
+
+.card1 {
+  margin-bottom:28px;
+  border-radius:15px;
+  border:none;
+  box-shadow:0 1px 3px 0 rgb(54 74 99 / 5%);
+}
+.card2 {
+  margin-bottom:10px;
+  border-radius:5px;
+  box-shadow:0 1px 1px 0 rgb(54 74 99 / 5%);
+}
+
+
+.box-option,
+.statics {
+	background:#FFFFFF;
+	background:linear-gradient(270deg,#FFFFFF,#FAFAFA);
+	border-radius:20px;
+  padding:15px 15px 8px 15px !important;
+}
+
+.statics .count {
+  text-align:center;
+}
+
+.statics .image {
+  float:left;
+  height:70px;
+  width:70px;
+  text-align:center;
+}
+
+.statics .info {
+  padding:7px 7px 7px 0;
+  margin-left:90px;
+}
+
+.statics .text {
+  font-weight:700;
+}
+
+.statics .number {
+  font-weight:700;
+  color:#4a97f7;
+  font-size:17px;
+  display:block;
+}
+.box-option,
+.thongbao {
+	background:#FFFFFF;
+	background:linear-gradient(270deg,#FFFFFF,#FFFFFF);
+	border-radius:20px;
+  padding:15px 15px 8px 15px !important;
+}
+
+.thongbao .count {
+  text-align:center;
+}
+
+.thongbao .image {
+  float:left;
+  height:70px;
+  width:70px;
+  text-align:center;
+}
+
+.thongbao .info {
+  padding:7px 7px 7px 0;
+  margin-left:90px;
+}
+
+.thongbao .text {
+  font-weight:700;
+}
+
+.thongbao .number {
+  font-weight:700;
+  color:#4a97f7;
+  font-size:17px;
+  display:block;
+}
+.card-title {
+  margin-bottom:.75rem;
+}
+.box-luuy {
+  background:#FC0616;
+  background:linear-gradient(270deg,#FC0616,#DC80D2);
+  border-radius:20px;
+  color:#000205;
+}
+.box-order {
+  background:#FFF;
+  background:linear-gradient(270deg,#FFF,#FFF);
+  border-radius:20px;
+  color:#000205;
+}
+.box-list {
+  background:#ccf3e0;
+  background:linear-gradient(150deg,#ccf3e0,#FFF);
+  border-radius:20px;
+
+}

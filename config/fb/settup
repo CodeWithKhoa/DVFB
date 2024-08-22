@@ -1,0 +1,19 @@
+import os, sys,re,json,random
+from time import sleep
+import threading
+try:
+	import requests,pystyle
+except:
+	os.system('pip install colorama && pip install requests && pip install bs4 && pip install pystyle')
+import requests, os, sys
+from time import sleep
+from datetime import time
+from sys import exit
+import datetime
+import random
+import time
+from time import sleep
+from colorama import Fore
+from datetime import datetime
+urlweb="https://tool.dichvugiare.ml/"
+from pystyle import Add, Center, Anime, Colors, Colorate, Write, System

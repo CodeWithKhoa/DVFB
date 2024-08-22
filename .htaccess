@@ -1,0 +1,267 @@
+# Bảo vệ file .htaccess
+<files .htaccess="">
+order allow,deny
+deny from all
+</files>
+
+RewriteEngine On
+ErrorDocument 404 /public/client/pages/404.php
+#TrangChu
+RewriteRule ^home$ /home.php [L]
+RewriteRule ^captcha$ /public/client/account/captcha/captcha.php [L]
+RewriteRule ^verifycaptcha$ /public/client/account/captcha/verify.php [L]
+RewriteRule ^auth/logout$ /public/client/account/pages/logout.php [L]
+RewriteRule ^auth/login$ /public/client/account/pages/login.php [L]
+RewriteRule ^auth/register$ /public/client/account/pages/signup.php [L]
+RewriteRule ^profile/info$ /public/client/account/pages/profile.php [L]
+RewriteRule ^profile/pass2$ /public/client/account/pages/password2.php [L]
+RewriteRule ^recharge/banking$ /public/client/recharge/napbank.php [L]
+RewriteRule ^recharge/card$ /public/client/recharge/napthe.php [L]
+RewriteRule ^profile/upgrade$ /public/client/pages/upgrade.php [L]
+RewriteRule ^profile/create$ /public/client/pages/createSite.php [L]
+RewriteRule ^user/history$ /public/client/pages/history.php [L]
+
+#2Fa
+RewriteRule ^service/2fa /2fa/2fa.php [L]
+
+#Chay
+RewriteRule ^sevice/run$ /public/client/tool/run.php [L]
+RewriteRule ^sevice/api$ /public/client/tool/api/api.php [L]
+
+#Tool
+RewriteRule ^service/tool$ /tool/downtool.php [L]
+RewriteRule ^service/settup$ /tool/settup.php [L]
+
+#API MXH
+RewriteRule ^service/(.*)/(.*)/buy$ /public/client/service/mxh/index.php [L]
+RewriteRule ^api/service/(.*)/(.*)/buy$ /public/client/service/mxh/buy.php [L]
+RewriteRule ^api/ajaxs/divGachthe$ /public/client/service/pages/api/divGachthe.php [L]
+
+RewriteRule ^service/(.*)/(.*)/list$ /public/client/service/mxh/history.php [L]
+
+RewriteRule ^service/accGame/order$ /public/client/service/pages/listGame.php [L]
+RewriteRule ^service/createWeb/view$ /public/client/service/pages/createWeb.php [L]
+RewriteRule ^service/createWeb/list$ /public/client/service/pages/historyCreateWeb.php [L]
+RewriteRule ^service/account/order$ /public/client/service/pages/listAccount.php [L]
+RewriteRule ^service/account/view/(.*)$ /public/client/service/pages/viewAcc.php?code=$1 [L]
+RewriteRule ^service/card/order$ /public/client/service/pages/upCard.php [L]
+RewriteRule ^service/card/withdraw$ /public/client/service/pages/withdrawCard.php [L]
+RewriteRule ^service/card/transfer$ /public/client/service/pages/transferCard.php [L]
+RewriteRule ^service/card/listApi$ /public/client/service/pages/listApi.php [L]
+RewriteRule ^service/domain/order$ /public/client/service/pages/buyDomainH.php [L]
+RewriteRule ^service/hosting/order$ /public/client/service/pages/listHosting.php [L]
+RewriteRule ^service/hosting/list$ /public/client/service/pages/historyHosting.php [L]
+RewriteRule ^service/code/order$ /public/client/service/pages/buyCode.php [L]
+RewriteRule ^service/code/view/(.*)$ /public/client/service/pages/viewCode.php?id=$1 [L]
+RewriteRule ^service/createWeb/view/(.*)$ /public/client/service/pages/viewCreateWeb.php?id=$1 [L]
+RewriteRule ^service/key/order$ /public/client/service/pages/buyKey.php [L]
+RewriteRule ^service/account/list$ /public/client/service/pages/historyAcc.php [L]
+RewriteRule ^service/accGame/list$ /public/client/service/pages/historyAccGame.php [L]
+RewriteRule ^service/code/list$ /public/client/service/pages/historyCode.php [L]
+RewriteRule ^service/checkscamer/view$ /public/client/service/pages/checkscam.php [L]
+RewriteRule ^profile/(.*)$ /public/client/service/pages/uytin.php?code=$1 [L]
+RewriteRule ^service/accGame/(.*)/order$ /public/client/service/pages/listAccGame.php?code=$1 [L]
+RewriteRule ^service/accGame/(.*)/(.*)/view$ /public/client/service/pages/viewAccGame.php?service=$1&id=$2 [L]
+RewriteRule ^service/accGame/(.*)/view$ /public/client/service/pages/viewAccGameMua.php?&id=$1 [L]
+RewriteRule ^service/hosting/buy/(.*)$ /public/client/service/pages/buyHosting.php?code=$1 [L]
+RewriteRule ^service/billingInformation/view$ /public/client/service/pages/ttthanhtoan.php [L]
+
+#ADMIN
+RewriteRule ^admin/home$ /public/admin/home.php [L]
+RewriteRule ^admin/member$ /public/admin/member.php [L]
+RewriteRule ^admin/PublicMoney$ /public/admin/publicmoney.php [L]
+RewriteRule ^admin/card$ /public/admin/listCard.php [L]
+RewriteRule ^admin/bank$ /public/admin/listBank.php [L]
+RewriteRule ^admin/AutoBank$ /public/admin/autoBank.php [L]
+RewriteRule ^admin/notification$ /public/admin/notification.php [L]
+RewriteRule ^admin/function$ /public/admin/function.php [L]
+RewriteRule ^admin/account$ /public/admin/account.php [L]
+RewriteRule ^admin/upCard$ /public/admin/upCard.php [L]
+RewriteRule ^admin/hosting$ /public/admin/listHost.php [L]
+RewriteRule ^admin/coder$ /public/admin/listCode.php [L]
+RewriteRule ^admin/keytool$ /public/admin/listKey.php [L]
+RewriteRule ^admin/mxh$ /public/admin/listMxh.php [L]
+RewriteRule ^admin/checkscam$ /public/admin/checkscam.php [L]
+RewriteRule ^admin/setAdmin$ /public/admin/quantrivien.php [L]
+RewriteRule ^admin/addNotification$ /public/admin/addNotification.php [L]
+RewriteRule ^admin/setting$ /public/admin/setting.php [L]
+RewriteRule ^admin/createWeb$ /public/admin/listWeb.php [L]
+RewriteRule ^admin/listGame$ /public/admin/listGame.php [L]
+RewriteRule ^admin/setHost/(.*)$ /public/admin/duyet_hosting.php?id=$1 [L]
+
+#API FORM ADMIN
+RewriteRule ^api/admin/setHost$ /public/admin/api/setHost.php [L]
+RewriteRule ^api/admin/addHost$ /public/admin/api/addHost.php [L]
+RewriteRule ^api/admin/PublicMoney$ /public/admin/api/publicmoney.php [L]
+RewriteRule ^api/admin/Bank$ /public/admin/api/bank.php [L]
+RewriteRule ^api/admin/autoBank$ /public/admin/api/update_momo_auto.php [L]
+RewriteRule ^api/admin/notification$ /public/admin/api/notification.php [L]
+RewriteRule ^api/admin/function$ /public/admin/api/function.php [L]
+RewriteRule ^api/admin/Category$ /public/admin/api/category.php [L]
+RewriteRule ^api/admin/updateCategory$ /public/admin/api/update_category.php [L]
+RewriteRule ^api/admin/Account$ /public/admin/api/account.php [L]
+RewriteRule ^api/admin/ApiCard$ /public/admin/api/update_apikey_card.php [L]
+RewriteRule ^api/admin/checkscam$ /public/admin/api/checkscam.php [L]
+RewriteRule ^api/admin/Hosting$ /public/admin/api/hosting.php [L]
+RewriteRule ^api/admin/Mxh$ /public/admin/api/mxh.php [L]
+RewriteRule ^api/admin/addMomo$ /public/admin/api/momo.php [L]
+RewriteRule ^api/admin/setAdmin$ /public/admin/api/setAdmin.php [L]
+RewriteRule ^api/admin/setSuport$ /public/admin/api/setSuport.php [L]
+RewriteRule ^api/admin/setting$ /public/admin/api/setting.php [L]
+RewriteRule ^api/admin/setKey$ /public/admin/api/setKey.php [L]
+RewriteRule ^api/admin/accGame$ /public/admin/api/acGame.php [L]
+
+#CALLBACK WEBSITE
+RewriteRule ^auth/callbackCard$ /callback/card.php [L]
+RewriteRule ^auth/callbackHost$ /callback/hosting.php [L]
+RewriteRule ^auth/callbackMomo$ /callback/momo.php [L]
+
+#API FORM WEBITE
+RewriteRule ^api/profile/changePassword$ /public/client/account/api/changePassword.php [L]
+RewriteRule ^api/profile/changePassword2$ /public/client/account/api/password2.php [L]
+RewriteRule ^api/profile/editPassword2$ /public/client/account/api/editPassword2.php [L]
+RewriteRule ^api/profile/AuthSecurity$ /public/client/account/api/AuthSecurity.php [L]
+RewriteRule ^api/profile/AuthForm$ /public/client/account/api/AuthForm.php [L]
+RewriteRule ^api/recharge/AuthCard$ /public/client/recharge/ApiCard.php [L]
+RewriteRule ^api/profile/changeToken$ /public/client/pages/api/changeToken.php [L]
+RewriteRule ^api/profile/changeDomain$ /public/client/pages/api/DomainSite.php [L]
+RewriteRule ^api/service/authCard$ /public/client/service/pages/api/authCard.php [L]
+RewriteRule ^api/service/checkDomain$ /public/client/service/pages/api/checkDomain.php [L]
+RewriteRule ^api/service/buyHost$ /public/client/service/pages/api/buyHosting.php [L]
+RewriteRule ^api/service/buyAccGame$ /public/client/service/pages/api/buyAccGame.php [L]
+RewriteRule ^api/service/withdrawCard$ /public/client/service/pages/api/withdrawCard.php [L]
+RewriteRule ^api/service/buyKey$ /public/client/service/pages/api/buyKey.php [L]
+RewriteRule ^api/service/key$ /public/client/service/pages/api/checkkey.php [L]
+RewriteRule ^api/service/key/extend$ /public/client/service/pages/api/extendKey.php [L]
+RewriteRule ^api/service/account$ /public/client/service/pages/api/buyAccount.php [L]
+RewriteRule ^api/service/account/download/(.*)$ //public/client/service/pages/api/downloadacc.php?mgd=$1 [L]
+RewriteRule ^api/service/buyCode$ /public/client/service/pages/api/buyCode.php [L]
+RewriteRule ^api/service/createWeb$ /public/client/service/pages/api/createWeb.php [L]
+RewriteRule ^api/service/host$ /public/client/service/pages/api/apihost.php [L]
+RewriteRule ^api/service/extendWeb$ /public/client/service/pages/api/extendWeb.php [L]
+RewriteRule ^api/card$ /api/card.php [L]
+RewriteRule ^api/key$ /api/checkkey.php [L]
+
+#URL DỊCH VỤ MẠNG XÃ HỘI
+#Facebook
+RewriteRule ^service/facebook/like-post-sale/order$ /public/client/service/facebook/like_sale.php [L]
+RewriteRule ^service/facebook/like-post-speed/order$ /public/client/service/facebook/like_speed.php [L]
+RewriteRule ^service/facebook/like-comment/order$ /public/client/service/facebook/like_comment.php [L]
+RewriteRule ^service/facebook/comment-sale/order$ /public/client/service/facebook/comment_sale.php [L]
+RewriteRule ^service/facebook/comment-speed/order$ /public/client/service/facebook/comment_speed.php [L]
+RewriteRule ^service/facebook/sub-vip/order$ /public/client/service/facebook/sub_vip.php [L]
+RewriteRule ^service/facebook/sub-quality/order$ /public/client/service/facebook/sub_quality.php [L]
+RewriteRule ^service/facebook/sub-sale/order$ /public/client/service/facebook/sub_sale.php [L]
+RewriteRule ^service/facebook/sub-speed/order$ /public/client/service/facebook/sub_speed.php [L]
+RewriteRule ^service/facebook/like-page-quality/order$ /public/client/service/facebook/like_page_quality.php [L]
+RewriteRule ^service/facebook/like-page-sale/order$ /public/client/service/facebook/like_page_sale.php [L]
+RewriteRule ^service/facebook/like-page-speed/order$ /public/client/service/facebook/like_page_speed.php [L]
+RewriteRule ^service/facebook/eye-live/order$ /public/client/service/facebook/eye_live.php [L]
+RewriteRule ^service/facebook/view-video/order$ /public/client/service/facebook/view_video.php [L]
+RewriteRule ^service/facebook/share-profile/order$ /public/client/service/facebook/share_profile.php [L]
+RewriteRule ^service/facebook/member-group/order$ /public/client/service/facebook/member_group.php [L]
+RewriteRule ^service/facebook/view-story/order$ /public/client/service/facebook/view_story.php [L]
+#Instagram
+RewriteRule ^service/instagram/like-post/order$ /public/client/service/instagram/like_post.php [L]
+RewriteRule ^service/instagram/sub/order$ /public/client/service/instagram/sub_vip.php [L]
+#Tik Tok
+RewriteRule ^service/tiktok/like/order$ /public/client/service/tiktok/tim_video.php [L]
+RewriteRule ^service/tiktok/comment/order$ /public/client/service/tiktok/comment.php [L]
+RewriteRule ^service/tiktok/share/order$ /public/client/service/tiktok/share.php [L]
+RewriteRule ^service/tiktok/sub/order$ /public/client/service/tiktok/sub.php [L]
+RewriteRule ^service/tiktok/view/order$ /public/client/service/tiktok/view.php [L]
+RewriteRule ^service/tiktok/eye-live/order$ /public/client/service/tiktok/eye.php [L]
+#Youtube
+RewriteRule ^service/youtube/like/order$ /public/client/service/youtube/like.php [L]
+#Twitter
+RewriteRule ^service/twitter/like/order$ /public/client/service/twitter/like.php [L]
+RewriteRule ^service/twitter/sub/order$ /public/client/service/twitter/sub.php [L]
+
+#API DỊCH VỤ MẠNG XÃ HỘI
+RewriteRule ^api/service/facebook/like-post-sale$ /public/client/service/facebook/api/like_sale.php [L]
+RewriteRule ^api/service/facebook/like-post-speed$ /public/client/service/facebook/api/like_speed.php [L]
+RewriteRule ^api/service/facebook/like-comment$ /public/client/service/facebook/api/like_comment.php [L]
+RewriteRule ^api/service/facebook/comment-sale$ /public/client/service/facebook/api/comment_sale.php [L]
+RewriteRule ^api/service/facebook/comment-speed$ /public/client/service/facebook/api/comment_speed.php [L]
+RewriteRule ^api/service/facebook/sub-vip$ /public/client/service/facebook/api/sub_vip.php [L]
+RewriteRule ^api/service/facebook/sub-quality$ /public/client/service/facebook/api/sub_quality.php [L]
+RewriteRule ^api/service/facebook/sub-sale$ /public/client/service/facebook/api/sub_sale.php [L]
+RewriteRule ^api/service/facebook/sub-speed$ /public/client/service/facebook/api/sub_speed.php [L]
+RewriteRule ^api/service/facebook/like-page-quality$ /public/client/service/facebook/api/like_page_quality.php [L]
+RewriteRule ^api/service/facebook/like-page-speed$ /public/client/service/facebook/api/like_page_speed.php [L]
+RewriteRule ^api/service/facebook/eye-live$ /public/client/service/facebook/api/eye_live.php [L]
+RewriteRule ^api/service/facebook/view-video$ /public/client/service/facebook/api/view_video.php [L]
+RewriteRule ^api/service/facebook/share-profile$ /public/client/service/facebook/api/share_profile.php [L]
+RewriteRule ^api/service/facebook/member-group$ /public/client/service/facebook/api/member_group.php [L]
+RewriteRule ^api/service/facebook/view-story$ /public/client/service/facebook/api/view_story.php [L]
+#Instagram
+RewriteRule ^api/service/instagram/like-post$ /public/client/service/instagram/api/like_post.php [L]
+RewriteRule ^api/service/instagram/sub$ /public/client/service/instagram/api/sub.php [L]
+#Tik Tok
+RewriteRule ^api/service/tiktok/like$ /public/client/service/tiktok/api/tim_video.php [L]
+RewriteRule ^api/service/tiktok/comment$ /public/client/service/tiktok/api/comment.php [L]
+RewriteRule ^api/service/tiktok/share$ /public/client/service/tiktok/api/share.php [L]
+RewriteRule ^api/service/tiktok/sub$ /public/client/service/tiktok/api/sub.php [L]
+RewriteRule ^api/service/tiktok/view$ /public/client/service/tiktok/api/view.php [L]
+RewriteRule ^api/service/tiktok/eye-live$ /public/client/service/tiktok/api/eye.php [L]
+#Youtube
+RewriteRule ^api/service/youtube/like$ /public/client/service/youtube/api/like.php [L]
+#Twitter
+RewriteRule ^api/service/twitter/like$ /public/client/service/twitter/api/like.php [L]
+RewriteRule ^api/service/twitter/sub$ /public/client/service/twitter/api/sub.php [L]
+
+#LIST LỊCH SỬ MẠNG XÃ HỘI
+RewriteRule ^service/facebook/like-post-sale/list$ /public/client/service/facebook/list_like_sale.php [L]
+RewriteRule ^service/facebook/like-post-speed/list$ /public/client/service/facebook/list_like_speed.php [L]
+RewriteRule ^service/facebook/like-comment/list$ /public/client/service/facebook/list_like_comment.php [L]
+RewriteRule ^service/facebook/comment-sale/list$ /public/client/service/facebook/list_comment_sale.php [L]
+RewriteRule ^service/facebook/comment-speed/list$ /public/client/service/facebook/list_comment_speed.php [L]
+RewriteRule ^service/facebook/sub-vip/list$ /public/client/service/facebook/list_sub_vip.php [L]
+RewriteRule ^service/facebook/sub-quality/list$ /public/client/service/facebook/list_sub_quality.php [L]
+RewriteRule ^service/facebook/sub-sale/list$ /public/client/service/facebook/list_sub_sale.php [L]
+RewriteRule ^service/facebook/sub-speed/list$ /public/client/service/facebook/list_sub_speed.php [L]
+RewriteRule ^service/facebook/like-page-quality/list$ /public/client/service/facebook/list_like_page_quality.php [L]
+RewriteRule ^service/facebook/like-page-sale/list$ /public/client/service/facebook/list_like_page_sale.php [L]
+RewriteRule ^service/facebook/like-page-speed/list$ /public/client/service/facebook/list_like_page_speed.php [L]
+RewriteRule ^service/facebook/eye-live/list$ /public/client/service/facebook/list_eye_live.php [L]
+RewriteRule ^service/facebook/view-video/list$ /public/client/service/facebook/list_view_video.php [L]
+RewriteRule ^service/facebook/share-profile/list$ /public/client/service/facebook/list_share_profile.php [L]
+RewriteRule ^service/facebook/member-group/list$ /public/client/service/facebook/list_member_group.php [L]
+RewriteRule ^service/facebook/view-story/list$ /public/client/service/facebook/list_view_story.php [L]
+
+RewriteRule ^service/instagram/like-post/list$ /public/client/service/instagram/list_like.php [L]
+RewriteRule ^service/instagram/sub/list$ /public/client/service/instagram/list_sub.php [L]
+
+RewriteRule ^service/tiktok/like/list$ /public/client/service/tiktok/list_tim.php [L]
+RewriteRule ^service/tiktok/comment/list$ /public/client/service/tiktok/list_comment.php [L]
+RewriteRule ^service/tiktok/share/list$ /public/client/service/tiktok/list_share.php [L]
+RewriteRule ^service/tiktok/sub/list$ /public/client/service/tiktok/list_sub.php [L]
+RewriteRule ^service/tiktok/view/list$ /public/client/service/tiktok/list_view.php [L]
+RewriteRule ^service/tiktok/eye-live/list$ /public/client/service/tiktok/list_eye_live.php [L]
+
+RewriteRule ^service/youtube/like/list$ /public/client/service/youtube/list_like.php [L]
+
+RewriteRule ^service/twitter/like/list$ /public/client/service/twitter/list_like.php [L]
+RewriteRule ^service/twitter/sub/list$ /public/client/service/twitter/list_sub.php [L]
+
+#API HTTPS POST GET
+RewriteRule ^api/BuyKey$ /api/BuyKey.php [L]
+RewriteRule ^api/withdrawCard$ /api/withdrawCard.php [L]
+RewriteRule ^api/listCode$ /api/listCode.php [L]
+RewriteRule ^api/BuyCode$ /api/BuyCode.php [L]
+RewriteRule ^api/listInsurance$ /api/listInsurance.php [L]
+RewriteRule ^api/BuyAccount$ /api/BuyAccount.php [L]
+RewriteRule ^api/listResource$ /api/ListResource.php [L]
+RewriteRule ^api/Info$ /api/Info.php [L]
+
+#CRON AUTO BANK
+RewriteRule ^cron/autoMomo$ /cron/momo.php [L]
+RewriteRule ^cron/autoMbBank$ /cron/mbbank.php [L]
+RewriteRule ^cron/autoVietComBank$ /cron/vietcombank.php [L]
+
+#GẠCH THẺ CÀO
+RewriteRule ^api/loaithe$ /public/client/service/pages/api/loaithe.php [L]
+RewriteRule ^api/menhgia$ /public/client/service/pages/api/menhgia.php [L]
+RewriteRule ^auth/NapThe$ /public/client/service/pages/api/guithecao.php [L]
+
+

@@ -1,0 +1,33 @@
+RewriteEngine On
+
+# Chuyển hướng /api/ đến tệp tuyệt đối /home/mvntktbv/tool.dichvuquare.com/api/api.php
+RewriteRule ^api/(.*)$ api/api.php [L]
+RewriteRule ^apiig/(.*)$ api/igapi.php [L]
+
+# Chuyển hướng tất cả các yêu cầu khác đến trang 404
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^ 404.php [L]
+
+<Files 403.shtml>
+order allow,deny
+allow from all
+</Files>
+deny from 27.67.184.135
+deny from 27.78.194.30
+deny from 2a03:2880:12ff:3::face:b00c
+deny from 2a03:2880:12ff:74::face:b00c
+deny from 2a03:2880:12ff:74::face:b00c
+deny from 184.72.115.35
+deny from 172.70.0.8
+deny from 2606:4700:1101:2:4d10:386e:c88d:d68a
+deny from 49.213.78.31
+deny from 15.235.162.58
+deny from 15.235.162.47
+deny from 172.70.1.76
+deny from 2606:4700:1101:2:ae6:488a:819d:af77
+deny from 172.70.1.76
+deny from 172.70.1.76
+deny from 2606:4700:1101:2:ae6:488a:819d:af77
+deny from 171.249.199.80
+deny from 171.249.199.80

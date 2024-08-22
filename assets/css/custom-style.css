@@ -1,0 +1,361 @@
+.sidebar-nav .img-avatar {
+    float: left;
+}
+
+.profile-tab li {
+    font-weight: bold;
+}
+
+.fb-reaction {
+    text-align: center;
+}
+
+.fb-reaction .checkbox {
+    display: inline-block;
+}
+
+.fb-reaction .checkbox input {
+    display: none;
+}
+
+.fb-reaction img {
+    width: 50px;
+    display: block
+}
+
+button{
+    border-radius: 10px;
+    border: 0 !important;
+}
+.btn-orange{
+    background: #FFAA47;
+    color: #FFFFFF;
+}
+.orange{
+    color: #FFAA47;
+}
+.card{
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    border: 0;
+}
+.card-gray{
+    background: #F2F2F2;
+}
+.login {
+    background-image:url(/assets/images/background/login.png);
+    background-size: 100% 100%;
+    height: 100vh;
+    width: 100%;
+    padding: 15px;
+    overflow: auto;
+    position: relative;
+    top: 5vh;
+}
+.input-box {
+    border-style: none;
+    background: transparent;
+    border-bottom: 1px solid #000000;
+    width: 100%;
+    position: relative;
+    outline: none;
+    padding: 10px 0;
+    margin-bottom: 30px;
+    border-radius: 0px;
+}
+.register {
+    background-size: 100% 100%;
+    height: 100vh;
+    width: 100%;
+    padding: 8px;
+    overflow: auto;
+    position: relative;
+}
+.font-bold{
+    font-weight: bold;
+}
+.bold{
+    font-family: VIEAvantGardeBold;
+}
+.font-12{
+    font-size: 12px;
+}
+.font-13{
+    font-size: 13px;
+}
+.font-14{
+    font-size: 14px;
+}
+.font-16{
+    font-size: 16px;
+}
+.font-18{
+    font-size: 18px;
+}
+.font-19{
+    font-size: 19px;
+}
+.font-20{
+    font-size: 20px;
+}
+.font-22{
+    font-size: 22px;
+}
+.font-24{
+    font-size: 24px;
+}
+.font-30{
+    font-size: 30px;
+}
+.font-32{
+    font-size: 32px;
+}
+.font-36{
+    font-size: 36px;
+}
+.ps__thumb-y {
+    transition: background-color .2s linear,width .2s ease-in-out;
+    -webkit-transition: background-color .2s linear,width .2s ease-in-out;
+    width: 0px !important;
+    right: 0px !important;
+}
+.input{
+    border-radius: 10px !important;
+    border: 0
+}
+.input-gray{
+    border-radius: 10px !important;
+    border: 0;
+    background: #F2F2F2;
+}
+.input-gray:focus{
+    border-radius: 10px !important;
+    border: 0;
+    background: #F2F2F2;
+}
+.input-light{
+    border-radius: 10px !important;
+    border: 0;
+    background: white;
+}
+.select-gray{
+    background-color:#F2F2F2;
+    border: 0;
+    color: #000000;
+}
+.select-light{
+    border: 0
+}
+.shadow-0{
+    box-shadow: 0px 0px 0px !important;
+}
+iframe{
+    border-radius: 10px;
+}
+textarea {
+  border-radius: 10px !important;
+}
+.textarea-light{
+  background: white;
+  border: 0 !important;
+}
+.v-select{
+  background: white;
+  border-radius: 10px;
+  border: 0;
+}
+.vs--searchable .vs__dropdown-toggle {
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #e9ecef;
+  border-radius: 10px;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  padding: 4px 0 8px;
+}
+
+input {
+  border-radius: 10px !important;
+}
+button {
+    border-radius: 10px !important;
+}
+.btn-md{
+  min-height: 36px;
+}
+select{
+  border-radius: 10px !important;
+  border: 0;
+}
+.input-light{
+    background: white;
+    border: 0;
+}
+.select-light{
+    background: white;
+    border: 0;
+}
+.select-right{
+  border-radius: 10px 0 0 10px !important;
+  border-right: 0;
+  min-height: 38px;
+}
+.select-left{
+  border-radius: 0 10px 10px 0 !important;
+  border-left: 0;
+  min-height: 38px;
+}
+.btn-orange{
+    background: #FFC100;
+}
+.btn-dark-blue{
+    color: white
+}
+.btn-red{
+    background: #FF7058;
+    color: white
+}
+.card-white{
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 0 0 0 !important;
+}
+.card-red{
+  box-shadow: 0 0 0 0 !important;
+  background: #FFA192;
+  border-radius: 10px;
+  color: white;
+}
+.card-menu{
+  background: white !important;
+}
+.bg-dark-blue{
+  color:white
+}
+.card-orange{
+  background: #FEE9B2
+}
+.bg-orange {
+  background: #FFC100;
+}
+.tab-price{
+  background-color: #FFC100 !important;
+  border: 0px;
+  color: #352D7D;
+}
+.icon-log {
+  font-size: 18px;
+  vertical-align: middle;
+  margin-right: 3px;
+}
+.badge{
+  border-radius: 20px;
+  color: white;
+  padding: 3px 10px;
+}
+.badge-success{
+  background: #1FAB89 !important;
+}
+.badge-danger{
+  background: #E95F5C !important;
+}
+.badge-yellow{
+  background: #FFB900 !important;
+}
+.badge-warning{
+  background: #FD951B !important;
+}
+.color-info {
+  color: #333333;
+}
+.card-menu:hover {
+  background: rgba(225, 51, 45, 0);
+  font-weight: 900;
+  letter-spacing: 1px;
+}
+.card-menu:hover rect {
+  stroke-width: 5;
+  stroke-dasharray: 15, 310;
+  stroke-dashoffset: 48;
+  transition: all 1.35s cubic-bezier(0.19, 1, 0.22, 1);
+}
+.btn-menu {
+  color: #352D7D;
+  cursor: pointer;
+  display: block;
+  position: relative;
+  text-decoration: none;
+  background: white;
+  text-align: center;
+  border-radius: 10px;
+  height: 100%;
+  transition-property: all;
+  transition-duration: .6s;
+  transition-timing-function: ease;
+}
+.col,.has-arrow:hover,.collapse li a:hover,.router-link-active {
+    box-sizing: inherit;
+    transition-property: all;
+    transition-duration: .6s;
+    transition-timing-function: ease;
+}
+.btn-menu svg {
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  transition-property: all;
+  transition-duration: .6s;
+  transition-timing-function: ease;
+}
+.btn-menu rect {
+  fill: none;
+  stroke: #352D7D;
+  stroke-width: 0;
+  stroke-dasharray: 422, 0;
+  transition-property: all;
+  transition-duration: .6s;
+  transition-timing-function: ease;
+}
+.btn-menu:hover {
+  background-color: #edf1f5;
+  font-weight: 900;
+  letter-spacing: 2px;
+}
+.btn-menu:hover rect {
+  stroke-width: 8;
+  stroke-dasharray: 15, 310;
+  stroke-dashoffset: 48;
+  transition: all 1s cubic-bezier(0.19, 1, 0.22, 1);
+}
+.user-discount{
+  background:  #FD951B !important;
+  padding: 3px 20px 3px 20px;
+  border-radius: 20px;
+  color: white;
+}
+/* .card-red{
+  background: #e46a76;
+  color: white;
+  border-radius: 10px;
+} */
+.card-green{
+  background: #1FAB89;
+  color: white;
+  border-radius: 10px;
+}
+.red{
+  color: #e46a76 !important;
+}
+.cl-green{
+  color: #1FAB89 !important;
+}
+.mega{
+  color: #007DC4 !important;
+}
+.blue{
+  color: #352d7d !important;
+}
+.cursor-pointer {
+  cursor: pointer;
+}

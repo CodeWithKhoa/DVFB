@@ -1,0 +1,4 @@
+[05-Jun-2024 08:35:43 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/jmingvpncom/public_html/config/config.php on line 4
+[05-Jun-2024 08:35:43 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/jmingvpncom/public_html/config/config.php on line 4
+[05-Jun-2024 08:35:53 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/jmingvpncom/public_html/config/config.php on line 4
+[05-Jun-2024 08:35:53 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/jmingvpncom/public_html/config/config.php on line 4

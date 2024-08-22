@@ -1,0 +1,130 @@
+[05-Jun-2024 08:35:06 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/jmingvpncom/public_html/config/config.php on line 4
+[05-Jun-2024 08:35:06 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/jmingvpncom/public_html/config/config.php on line 4
+[02-Jul-2024 01:09:16 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/jmingvpncom/public_html/config/config.php on line 4
+[02-Jul-2024 01:09:16 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/jmingvpncom/public_html/config/config.php on line 4
+[02-Jul-2024 01:09:40 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/jmingvpncom/public_html/config/config.php on line 4
+[02-Jul-2024 01:09:40 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/jmingvpncom/public_html/config/config.php on line 4
+[02-Jul-2024 01:09:51 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/jmingvpncom/public_html/config/config.php on line 4
+[02-Jul-2024 01:09:51 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/jmingvpncom/public_html/config/config.php on line 4
+[02-Jul-2024 01:09:59 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/jmingvpncom/public_html/config/config.php on line 4
+[02-Jul-2024 01:09:59 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/jmingvpncom/public_html/config/config.php on line 4
+[02-Jul-2024 01:10:04 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/jmingvpncom/public_html/config/config.php on line 4
+[02-Jul-2024 01:10:04 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/jmingvpncom/public_html/config/config.php on line 4
+[02-Jul-2024 01:10:05 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/jmingvpncom/public_html/config/config.php on line 4
+[02-Jul-2024 01:10:05 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/jmingvpncom/public_html/config/config.php on line 4
+[02-Jul-2024 01:10:10 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/jmingvpncom/public_html/config/config.php on line 4
+[02-Jul-2024 01:10:10 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/jmingvpncom/public_html/config/config.php on line 4
+[02-Jul-2024 01:10:12 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/jmingvpncom/public_html/config/config.php on line 4
+[02-Jul-2024 01:10:12 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/jmingvpncom/public_html/config/config.php on line 4
+[02-Jul-2024 01:11:33 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/jmingvpncom/public_html/config/config.php on line 4
+[02-Jul-2024 01:11:33 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/jmingvpncom/public_html/config/config.php on line 4
+[02-Jul-2024 01:11:35 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/jmingvpncom/public_html/config/config.php on line 4
+[02-Jul-2024 01:11:35 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/jmingvpncom/public_html/config/config.php on line 4
+[02-Jul-2024 09:29:55 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/public_html/config/config.php on line 4
+[02-Jul-2024 09:29:55 UTC] PHP Stack trace:
+[02-Jul-2024 09:29:55 UTC] PHP   1. {main}() /home/trandang/public_html/public/admin/home.php:0
+[02-Jul-2024 09:29:55 UTC] PHP   2. require() /home/trandang/public_html/public/admin/home.php:2
+[02-Jul-2024 09:29:55 UTC] PHP   3. require() /home/trandang/public_html/public/admin/head.php:3
+[02-Jul-2024 09:29:55 UTC] PHP   4. ob_start($user_function = 'minify_output') /home/trandang/public_html/config/config.php:4
+[02-Jul-2024 09:29:55 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/public_html/config/config.php on line 4
+[02-Jul-2024 09:29:55 UTC] PHP Stack trace:
+[02-Jul-2024 09:29:55 UTC] PHP   1. {main}() /home/trandang/public_html/public/admin/home.php:0
+[02-Jul-2024 09:29:55 UTC] PHP   2. require() /home/trandang/public_html/public/admin/home.php:2
+[02-Jul-2024 09:29:55 UTC] PHP   3. require() /home/trandang/public_html/public/admin/head.php:3
+[02-Jul-2024 09:29:55 UTC] PHP   4. ob_start($user_function = 'minify_output') /home/trandang/public_html/config/config.php:4
+[02-Jul-2024 09:29:58 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/public_html/config/config.php on line 4
+[02-Jul-2024 09:29:58 UTC] PHP Stack trace:
+[02-Jul-2024 09:29:58 UTC] PHP   1. {main}() /home/trandang/public_html/public/admin/setting.php:0
+[02-Jul-2024 09:29:58 UTC] PHP   2. require() /home/trandang/public_html/public/admin/setting.php:2
+[02-Jul-2024 09:29:58 UTC] PHP   3. require() /home/trandang/public_html/public/admin/head.php:3
+[02-Jul-2024 09:29:58 UTC] PHP   4. ob_start($user_function = 'minify_output') /home/trandang/public_html/config/config.php:4
+[02-Jul-2024 09:29:58 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/public_html/config/config.php on line 4
+[02-Jul-2024 09:29:58 UTC] PHP Stack trace:
+[02-Jul-2024 09:29:58 UTC] PHP   1. {main}() /home/trandang/public_html/public/admin/setting.php:0
+[02-Jul-2024 09:29:58 UTC] PHP   2. require() /home/trandang/public_html/public/admin/setting.php:2
+[02-Jul-2024 09:29:58 UTC] PHP   3. require() /home/trandang/public_html/public/admin/head.php:3
+[02-Jul-2024 09:29:58 UTC] PHP   4. ob_start($user_function = 'minify_output') /home/trandang/public_html/config/config.php:4
+[02-Jul-2024 09:31:04 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/public_html/config/config.php on line 4
+[02-Jul-2024 09:31:04 UTC] PHP Stack trace:
+[02-Jul-2024 09:31:04 UTC] PHP   1. {main}() /home/trandang/public_html/public/admin/setting.php:0
+[02-Jul-2024 09:31:04 UTC] PHP   2. require() /home/trandang/public_html/public/admin/setting.php:2
+[02-Jul-2024 09:31:04 UTC] PHP   3. require() /home/trandang/public_html/public/admin/head.php:3
+[02-Jul-2024 09:31:04 UTC] PHP   4. ob_start($user_function = 'minify_output') /home/trandang/public_html/config/config.php:4
+[02-Jul-2024 09:31:04 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/public_html/config/config.php on line 4
+[02-Jul-2024 09:31:04 UTC] PHP Stack trace:
+[02-Jul-2024 09:31:04 UTC] PHP   1. {main}() /home/trandang/public_html/public/admin/setting.php:0
+[02-Jul-2024 09:31:04 UTC] PHP   2. require() /home/trandang/public_html/public/admin/setting.php:2
+[02-Jul-2024 09:31:04 UTC] PHP   3. require() /home/trandang/public_html/public/admin/head.php:3
+[02-Jul-2024 09:31:04 UTC] PHP   4. ob_start($user_function = 'minify_output') /home/trandang/public_html/config/config.php:4
+[02-Jul-2024 09:49:44 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/public_html/config/config.php on line 4
+[02-Jul-2024 09:49:44 UTC] PHP Stack trace:
+[02-Jul-2024 09:49:44 UTC] PHP   1. {main}() /home/trandang/public_html/public/admin/setting.php:0
+[02-Jul-2024 09:49:44 UTC] PHP   2. require() /home/trandang/public_html/public/admin/setting.php:2
+[02-Jul-2024 09:49:44 UTC] PHP   3. require() /home/trandang/public_html/public/admin/head.php:3
+[02-Jul-2024 09:49:44 UTC] PHP   4. ob_start($user_function = 'minify_output') /home/trandang/public_html/config/config.php:4
+[02-Jul-2024 09:49:44 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/public_html/config/config.php on line 4
+[02-Jul-2024 09:49:44 UTC] PHP Stack trace:
+[02-Jul-2024 09:49:44 UTC] PHP   1. {main}() /home/trandang/public_html/public/admin/setting.php:0
+[02-Jul-2024 09:49:44 UTC] PHP   2. require() /home/trandang/public_html/public/admin/setting.php:2
+[02-Jul-2024 09:49:44 UTC] PHP   3. require() /home/trandang/public_html/public/admin/head.php:3
+[02-Jul-2024 09:49:44 UTC] PHP   4. ob_start($user_function = 'minify_output') /home/trandang/public_html/config/config.php:4
+[02-Jul-2024 09:49:51 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/public_html/config/config.php on line 4
+[02-Jul-2024 09:49:51 UTC] PHP Stack trace:
+[02-Jul-2024 09:49:51 UTC] PHP   1. {main}() /home/trandang/public_html/public/admin/setting.php:0
+[02-Jul-2024 09:49:51 UTC] PHP   2. require() /home/trandang/public_html/public/admin/setting.php:2
+[02-Jul-2024 09:49:51 UTC] PHP   3. require() /home/trandang/public_html/public/admin/head.php:3
+[02-Jul-2024 09:49:51 UTC] PHP   4. ob_start($user_function = 'minify_output') /home/trandang/public_html/config/config.php:4
+[02-Jul-2024 09:49:51 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/public_html/config/config.php on line 4
+[02-Jul-2024 09:49:51 UTC] PHP Stack trace:
+[02-Jul-2024 09:49:51 UTC] PHP   1. {main}() /home/trandang/public_html/public/admin/setting.php:0
+[02-Jul-2024 09:49:51 UTC] PHP   2. require() /home/trandang/public_html/public/admin/setting.php:2
+[02-Jul-2024 09:49:51 UTC] PHP   3. require() /home/trandang/public_html/public/admin/head.php:3
+[02-Jul-2024 09:49:51 UTC] PHP   4. ob_start($user_function = 'minify_output') /home/trandang/public_html/config/config.php:4
+[02-Jul-2024 09:54:06 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/public_html/config/config.php on line 4
+[02-Jul-2024 09:54:06 UTC] PHP Stack trace:
+[02-Jul-2024 09:54:06 UTC] PHP   1. {main}() /home/trandang/public_html/public/admin/setting.php:0
+[02-Jul-2024 09:54:06 UTC] PHP   2. require() /home/trandang/public_html/public/admin/setting.php:2
+[02-Jul-2024 09:54:06 UTC] PHP   3. require() /home/trandang/public_html/public/admin/head.php:3
+[02-Jul-2024 09:54:06 UTC] PHP   4. ob_start($user_function = 'minify_output') /home/trandang/public_html/config/config.php:4
+[02-Jul-2024 09:54:06 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/public_html/config/config.php on line 4
+[02-Jul-2024 09:54:06 UTC] PHP Stack trace:
+[02-Jul-2024 09:54:06 UTC] PHP   1. {main}() /home/trandang/public_html/public/admin/setting.php:0
+[02-Jul-2024 09:54:06 UTC] PHP   2. require() /home/trandang/public_html/public/admin/setting.php:2
+[02-Jul-2024 09:54:06 UTC] PHP   3. require() /home/trandang/public_html/public/admin/head.php:3
+[02-Jul-2024 09:54:06 UTC] PHP   4. ob_start($user_function = 'minify_output') /home/trandang/public_html/config/config.php:4
+[02-Jul-2024 09:54:12 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/public_html/config/config.php on line 4
+[02-Jul-2024 09:54:12 UTC] PHP Stack trace:
+[02-Jul-2024 09:54:12 UTC] PHP   1. {main}() /home/trandang/public_html/public/admin/setting.php:0
+[02-Jul-2024 09:54:12 UTC] PHP   2. require() /home/trandang/public_html/public/admin/setting.php:2
+[02-Jul-2024 09:54:12 UTC] PHP   3. require() /home/trandang/public_html/public/admin/head.php:3
+[02-Jul-2024 09:54:12 UTC] PHP   4. ob_start($user_function = 'minify_output') /home/trandang/public_html/config/config.php:4
+[02-Jul-2024 09:54:12 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/public_html/config/config.php on line 4
+[02-Jul-2024 09:54:12 UTC] PHP Stack trace:
+[02-Jul-2024 09:54:12 UTC] PHP   1. {main}() /home/trandang/public_html/public/admin/setting.php:0
+[02-Jul-2024 09:54:12 UTC] PHP   2. require() /home/trandang/public_html/public/admin/setting.php:2
+[02-Jul-2024 09:54:12 UTC] PHP   3. require() /home/trandang/public_html/public/admin/head.php:3
+[02-Jul-2024 09:54:12 UTC] PHP   4. ob_start($user_function = 'minify_output') /home/trandang/public_html/config/config.php:4
+[02-Jul-2024 09:54:25 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/public_html/config/config.php on line 4
+[02-Jul-2024 09:54:25 UTC] PHP Stack trace:
+[02-Jul-2024 09:54:25 UTC] PHP   1. {main}() /home/trandang/public_html/public/admin/notification.php:0
+[02-Jul-2024 09:54:25 UTC] PHP   2. require() /home/trandang/public_html/public/admin/notification.php:2
+[02-Jul-2024 09:54:25 UTC] PHP   3. require() /home/trandang/public_html/public/admin/head.php:3
+[02-Jul-2024 09:54:25 UTC] PHP   4. ob_start($user_function = 'minify_output') /home/trandang/public_html/config/config.php:4
+[02-Jul-2024 09:54:25 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/public_html/config/config.php on line 4
+[02-Jul-2024 09:54:25 UTC] PHP Stack trace:
+[02-Jul-2024 09:54:25 UTC] PHP   1. {main}() /home/trandang/public_html/public/admin/notification.php:0
+[02-Jul-2024 09:54:25 UTC] PHP   2. require() /home/trandang/public_html/public/admin/notification.php:2
+[02-Jul-2024 09:54:25 UTC] PHP   3. require() /home/trandang/public_html/public/admin/head.php:3
+[02-Jul-2024 09:54:25 UTC] PHP   4. ob_start($user_function = 'minify_output') /home/trandang/public_html/config/config.php:4
+[02-Jul-2024 11:08:29 UTC] PHP Warning:  ob_start(): function 'minify_output' not found or invalid function name in /home/trandang/public_html/config/config.php on line 4
+[02-Jul-2024 11:08:29 UTC] PHP Stack trace:
+[02-Jul-2024 11:08:29 UTC] PHP   1. {main}() /home/trandang/public_html/public/admin/notification.php:0
+[02-Jul-2024 11:08:29 UTC] PHP   2. require() /home/trandang/public_html/public/admin/notification.php:2
+[02-Jul-2024 11:08:29 UTC] PHP   3. require() /home/trandang/public_html/public/admin/head.php:3
+[02-Jul-2024 11:08:29 UTC] PHP   4. ob_start($user_function = 'minify_output') /home/trandang/public_html/config/config.php:4
+[02-Jul-2024 11:08:29 UTC] PHP Notice:  ob_start(): failed to create buffer in /home/trandang/public_html/config/config.php on line 4
+[02-Jul-2024 11:08:29 UTC] PHP Stack trace:
+[02-Jul-2024 11:08:29 UTC] PHP   1. {main}() /home/trandang/public_html/public/admin/notification.php:0
+[02-Jul-2024 11:08:29 UTC] PHP   2. require() /home/trandang/public_html/public/admin/notification.php:2
+[02-Jul-2024 11:08:29 UTC] PHP   3. require() /home/trandang/public_html/public/admin/head.php:3
+[02-Jul-2024 11:08:29 UTC] PHP   4. ob_start($user_function = 'minify_output') /home/trandang/public_html/config/config.php:4
