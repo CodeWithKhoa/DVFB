@@ -5,10 +5,10 @@ ob_start('minify_output');
 date_default_timezone_set('Asia/Ho_Chi_Minh');
 $namews = $_SERVER['SERVER_NAME'];
 error_reporting(0);
-define('SERVERNAME','localhost');
-define('USERNAME','trandang_dvfb');
-define('PASSWORD','trandang_dvfb');
-define('DATABASE','trandang_dvfb');
+define('SERVERNAME', getenv('DB_HOST') ?: 'localhost');
+define('USERNAME', getenv('DB_USERNAME') ?: 'your_db_user');
+define('PASSWORD', getenv('DB_PASSWORD') ?: 'your_db_password');
+define('DATABASE', getenv('DB_NAME') ?: 'your_db_name');
 
 class ManhDev {
     private $ketnoi;
@@ -419,8 +419,8 @@ $mail->isSMTP();
 $mail->CharSet  = "utf-8";
 $mail->Host = 'smtp.gmail.com';
 $mail->SMTPAuth = true;
-$nguoigui = 'dichvuquare@gmail.com';
-$matkhau = 'mjvdysgdwuzohhab';
+$nguoigui = getenv('SMTP_USER') ?: '';
+$matkhau = getenv('SMTP_PASS') ?: '';
 $tennguoigui = ''.$url_site_name;
 $mail->Username = $nguoigui;
 $mail->Password = $matkhau;
@@ -498,7 +498,7 @@ function giaodien(){
     }
 }
 giaodien();
-$key_dlsr = '1b787e9614225a7caaf76e23ef5172f71d6faf78f0a5253893e9dd27c';
+$key_dlsr = getenv('KEY_DLSR') ?: '';
 
 /***
 $gia_key = $ManhDev->site('gia_key');
