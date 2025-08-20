@@ -1,5 +1,3 @@
-# DVFB
-
 DVFB is a PHP-based platform for managing social-media services and tools.
 
 ## Features
@@ -12,6 +10,8 @@ DVFB is a PHP-based platform for managing social-media services and tools.
 - **Kiểm tra tên miền** – domain availability checker *(currently experimental)*
 - **Trình dịch tích hợp** – built-in translator for convenient site usage (not an external translation service)
 - Coin-based account system with upgrade options and optional two-factor authentication
+=======
+DVFB is a PHP-based web application.
 
 ## Setup
 
